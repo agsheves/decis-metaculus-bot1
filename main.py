@@ -13,7 +13,6 @@ from forecasting_tools import (
     AskNewsSearcher,
     BinaryQuestion,
     ForecastBot,
-    GeneralLlm,
     MetaculusApi,
     MetaculusQuestion,
     MultipleChoiceQuestion,
@@ -25,6 +24,7 @@ from forecasting_tools import (
     SmartSearcher,
     clean_indents,
 )
+from custom_llm import GeneralLlm
 
 logger = logging.getLogger(__name__)
 
