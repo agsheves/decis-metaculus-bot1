@@ -23,6 +23,7 @@ from forecasting_tools import (
     ReasonedPrediction,
     SmartSearcher,
     clean_indents,
+    ApiFilter,
 )
 from custom_llm import GeneralLlm
 
