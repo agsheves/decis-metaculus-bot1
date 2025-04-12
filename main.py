@@ -149,7 +149,7 @@ class TemplateForecaster(ForecastBot):
                     (The resolution criteria is important as it should include the benchmarking criteria to help inform your research)
                     """
                 )
-                research = await self.llm.invoke(prompt)
+                research = await self.get_llm("default", "llm").invoke(prompt)
             logger.info(f"Found Research for URL {question.page_url}:\n{research}")
             return research
 
