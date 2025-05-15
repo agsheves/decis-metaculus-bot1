@@ -21,6 +21,7 @@ from forecasting_tools import (
     SmartSearcher,
     clean_indents,
 )
+from logging_utils import ForecastLogger
 
 logger = logging.getLogger(__name__)
 
@@ -63,18 +64,39 @@ class TemplateForecaster(ForecastBot):
     )
     _concurrency_limiter = asyncio.Semaphore(_max_concurrent_questions)
 
+    def __init__(self, *args, **kwargs):
+        super().__init__(*args, **kwargs)
+        self.forecast_logger = ForecastLogger()
+        self.logger = self.forecast_logger.get_logger()
+
     # Added research validation to handle empty repsonses or 403 errors encountered with AskNews
     async def run_research(self, question: MetaculusQuestion) -> str:
         async with self._concurrency_limiter:
+            self.forecast_logger.log_question_start(
+                question.page_url, question.question_text
+            )
             research = ""
             if os.getenv("PERPLEXITY_API_KEY"):
                 try:
                     research = await self._call_perplexity(question.question_text)
                     if not self.check_research_response(research):
                         research = ""
+                        self.forecast_logger.log_research_result(
+                            question.page_url,
+                            "Perplexity",
+                            False,
+                            "Empty or invalid response",
+                        )
+                    else:
+                        self.forecast_logger.log_research_result(
+                            question.page_url, "Perplexity", True
+                        )
                 except Exception as e:
                     logger.warning(f"Perplexity search failed: {str(e)}")
                     research = ""
+                    self.forecast_logger.log_research_result(
+                        question.page_url, "Perplexity", False, str(e)
+                    )
 
             # Temporarily disabled AskNews due to 403 errors
             # if not research and os.getenv("ASKNEWS_CLIENT_ID") and os.getenv("ASKNEWS_SECRET"):
@@ -198,8 +220,8 @@ class TemplateForecaster(ForecastBot):
         prediction: float = PredictionExtractor.extract_last_percentage_value(
             reasoning, max_prediction=1, min_prediction=0
         )
-        logger.info(
-            f"Forecasted URL {question.page_url} as {prediction} with reasoning:\n{reasoning}"
+        self.forecast_logger.log_forecast_result(
+            question.page_url, prediction, reasoning
         )
         return ReasonedPrediction(prediction_value=prediction, reasoning=reasoning)
 
@@ -249,8 +271,8 @@ class TemplateForecaster(ForecastBot):
                 reasoning, question.options
             )
         )
-        logger.info(
-            f"Forecasted URL {question.page_url} as {prediction} with reasoning:\n{reasoning}"
+        self.forecast_logger.log_forecast_result(
+            question.page_url, prediction, reasoning
         )
         return ReasonedPrediction(prediction_value=prediction, reasoning=reasoning)
 
@@ -316,8 +338,8 @@ class TemplateForecaster(ForecastBot):
                 reasoning, question
             )
         )
-        logger.info(
-            f"Forecasted URL {question.page_url} as {prediction.declared_percentiles} with reasoning:\n{reasoning}"
+        self.forecast_logger.log_forecast_result(
+            question.page_url, prediction.declared_percentiles, reasoning
         )
         return ReasonedPrediction(prediction_value=prediction, reasoning=reasoning)
 
@@ -416,4 +438,5 @@ if __name__ == "__main__":
         forecast_reports = asyncio.run(
             template_bot.forecast_questions(questions, return_exceptions=True)
         )
+    template_bot.forecast_logger.log_summary()
     TemplateForecaster.log_report_summary(forecast_reports)  # type: ignore
