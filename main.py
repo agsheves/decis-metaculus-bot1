@@ -58,9 +58,11 @@ class TemplateForecaster(ForecastBot):
     Additionally OpenRouter has large rate limits immediately on account creation
     """
 
-    _max_concurrent_questions = 2  # Set this to whatever works for your search-provider/ai-model rate limits
+    _max_concurrent_questions = (
+        2  # Set this to whatever works for your search-provider/ai-model rate limits
+    )
     _concurrency_limiter = asyncio.Semaphore(_max_concurrent_questions)
-
+# Added research validation to handle empty repsonses or 403 errors encountered with AskNews
     async def run_research(self, question: MetaculusQuestion) -> str:
         async with self._concurrency_limiter:
             research = ""
@@ -68,25 +70,37 @@ class TemplateForecaster(ForecastBot):
                 research = await AskNewsSearcher().get_formatted_news_async(
                     question.question_text
                 )
-            elif os.getenv("EXA_API_KEY"):
-                research = await self._call_exa_smart_searcher(
-                    question.question_text
-                )
-            elif os.getenv("PERPLEXITY_API_KEY"):
+                if not self.check_research_response(research):
+                    research = ""
+
+            if not research and os.getenv("PERPLEXITY_API_KEY"):
                 research = await self._call_perplexity(question.question_text)
-            elif os.getenv("OPENROUTER_API_KEY"):
-                research = await self._call_perplexity(
-                    question.question_text, use_open_router=True
-                )
-            else:
+                if not self.check_research_response(research):
+                    research = ""
+#Spare slot for other search engines
+            #if not research and os.getenv("XXOTHER_SEARCH_ENGINE_KEY"):
+            #    research = await self._CALL_OTHER_SEARCH_ENGINE(
+            #       XXSEARCH_PARAMATERS
+            #    )
+            #    if not self.check_research_response(research):
+            #        research = ""
+
+            if not research:
                 logger.warning(
                     f"No research provider found when processing question URL {question.page_url}. Will pass back empty string."
                 )
-                research = ""
-            logger.info(
-                f"Found Research for URL {question.page_url}:\n{research}"
-            )
+
+            logger.info(f"Found Research for URL {question.page_url}:\n{research}")
             return research
+
+    def check_research_response(self, research: str) -> bool:
+        if research == "":
+            return False
+        if "No relevant news found" in research:
+            return False
+        if "400" in research:
+            return False
+        return True
 
     async def _call_perplexity(
         self, question: str, use_open_router: bool = False
@@ -176,9 +190,7 @@ class TemplateForecaster(ForecastBot):
         logger.info(
             f"Forecasted URL {question.page_url} as {prediction} with reasoning:\n{reasoning}"
         )
-        return ReasonedPrediction(
-            prediction_value=prediction, reasoning=reasoning
-        )
+        return ReasonedPrediction(prediction_value=prediction, reasoning=reasoning)
 
     async def _run_forecast_on_multiple_choice(
         self, question: MultipleChoiceQuestion, research: str
@@ -229,9 +241,7 @@ class TemplateForecaster(ForecastBot):
         logger.info(
             f"Forecasted URL {question.page_url} as {prediction} with reasoning:\n{reasoning}"
         )
-        return ReasonedPrediction(
-            prediction_value=prediction, reasoning=reasoning
-        )
+        return ReasonedPrediction(prediction_value=prediction, reasoning=reasoning)
 
     async def _run_forecast_on_numeric(
         self, question: NumericQuestion, research: str
@@ -298,9 +308,7 @@ class TemplateForecaster(ForecastBot):
         logger.info(
             f"Forecasted URL {question.page_url} as {prediction.declared_percentiles} with reasoning:\n{reasoning}"
         )
-        return ReasonedPrediction(
-            prediction_value=prediction, reasoning=reasoning
-        )
+        return ReasonedPrediction(prediction_value=prediction, reasoning=reasoning)
 
     def _create_upper_and_lower_bound_messages(
         self, question: NumericQuestion
@@ -342,9 +350,7 @@ if __name__ == "__main__":
         help="Specify the run mode (default: tournament)",
     )
     args = parser.parse_args()
-    run_mode: Literal["tournament", "quarterly_cup", "test_questions"] = (
-        args.mode
-    )
+    run_mode: Literal["tournament", "quarterly_cup", "test_questions"] = args.mode
     assert run_mode in [
         "tournament",
         "quarterly_cup",
