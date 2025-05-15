@@ -36,6 +36,8 @@ jobs:
           key: venv-${{ runner.os }}-${{ steps.setup-python.outputs.python-version }}-${{ hashFiles('**/poetry.lock') }}
       - name: Install dependencies
         run: poetry install --no-interaction --no-root
+      - name: Create logs directory
+        run: mkdir -p logs
       - name: Run bot
         run: |
           poetry run python main.py
@@ -50,3 +52,11 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           ASKNEWS_CLIENT_ID: ${{ secrets.ASKNEWS_CLIENT_ID }}
           ASKNEWS_SECRET: ${{ secrets.ASKNEWS_SECRET }}
+      - name: Configure Git
+        run: |
+          git config --global user.name 'GitHub Actions'
+          git config --global user.email 'actions@github.com'
+      - name: Commit and push if changes
+        run: |
+          git add logs/
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update logs from GitHub Actions run" && git push)
