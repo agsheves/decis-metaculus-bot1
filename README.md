@@ -13,12 +13,12 @@ The bot began well but gradually fell down the rankings and by May 13 was in las
 On May 15 I conducted a hard reset to the Metaculus main fork.
 Next we will
 - [ ] Add back logging functionality
-- [ ] REvert to Deepseek r1 (Groq) for primary analysis
+- [ ] Revert to Deepseek r1 (Groq) for primary analysis
 
 ## Issues, Tasks, Changelog
 
 * Need better records of how each question was handled
-  - [X] added logging to keep a better record of how each question was handled (resolved May 13)
+  - [ ] added logging to keep a better record of how each question was handled (resolved May 13)
 
 # General Tasks
 - [ ] Add and amend question parser from Orac
