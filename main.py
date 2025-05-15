@@ -68,15 +68,23 @@ class TemplateForecaster(ForecastBot):
         async with self._concurrency_limiter:
             research = ""
             if os.getenv("ASKNEWS_CLIENT_ID") and os.getenv("ASKNEWS_SECRET"):
-                research = await AskNewsSearcher().get_formatted_news_async(
-                    question.question_text
-                )
-                if not self.check_research_response(research):
+                try:
+                    research = await AskNewsSearcher().get_formatted_news_async(
+                        question.question_text
+                    )
+                    if not self.check_research_response(research):
+                        research = ""
+                except Exception as e:
+                    logger.warning(f"AskNews search failed: {str(e)}")
                     research = ""
 
             if not research and os.getenv("PERPLEXITY_API_KEY"):
-                research = await self._call_perplexity(question.question_text)
-                if not self.check_research_response(research):
+                try:
+                    research = await self._call_perplexity(question.question_text)
+                    if not self.check_research_response(research):
+                        research = ""
+                except Exception as e:
+                    logger.warning(f"Perplexity search failed: {str(e)}")
                     research = ""
             # Spare slot for other search engines
             # if not research and os.getenv("XXOTHER_SEARCH_ENGINE_KEY"):
