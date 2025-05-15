@@ -1,0 +1,366 @@
+[2025-05-15 14:27:21] INFO: === Starting new forecast run (Run #18) ===
+[2025-05-15 14:27:21] INFO: Environment: GitHub Actions
+[2025-05-15 14:27:21] INFO: Repository: agsheves/decis-metaculus-bot1
+[2025-05-15 14:27:21] INFO: Workflow: Test Bot
+[2025-05-15 14:27:21] INFO: Commit: 286294e5a2089f6acc8b0a86d0ea1f8c47fae9a5
+[2025-05-15 14:27:23] INFO: === Question 1 ===
+[2025-05-15 14:27:23] INFO: URL: https://www.metaculus.com/questions/578
+[2025-05-15 14:27:23] INFO: Text: Will humans go extinct before 2100?
+[2025-05-15 14:27:23] INFO: === Question 2 ===
+[2025-05-15 14:27:23] INFO: URL: https://www.metaculus.com/questions/14333
+[2025-05-15 14:27:23] INFO: Text: How old will the oldest living person be in 2100?
+[2025-05-15 14:27:36] INFO: Research: Perplexity succeeded for https://www.metaculus.com/questions/14333
+[2025-05-15 14:27:36] INFO: === Question 3 ===
+[2025-05-15 14:27:36] INFO: URL: https://www.metaculus.com/questions/22427
+[2025-05-15 14:27:36] INFO: Text: Before 2030, how many new AI labs will be leading labs within 2 years of their founding?
+[2025-05-15 14:27:41] INFO: Research: Perplexity succeeded for https://www.metaculus.com/questions/578
+[2025-05-15 14:27:43] INFO: === Forecast Result ===
+[2025-05-15 14:27:43] INFO: URL: https://www.metaculus.com/questions/14333
+[2025-05-15 14:27:43] INFO: Prediction: [Percentile(value=120.0, percentile=0.1), Percentile(value=125.0, percentile=0.2), Percentile(value=130.0, percentile=0.4), Percentile(value=135.0, percentile=0.6), Percentile(value=140.0, percentile=0.8), Percentile(value=145.0, percentile=0.9)]
+[2025-05-15 14:27:43] INFO: Reasoning: (a) The time left until the outcome to the question is known:  
+Approximately 74 years and 7.5 months until January 1, 2100.
+
+(b) The outcome if nothing changed:  
+If nothing changed, the oldest living person would be around the current record of 122 years, as held by Jeanne Louise Calment.
+
+(c) The outcome if the current trend continued:  
+The current trend shows individuals reaching ages of 115-116 years consistently. If this trend continues linearly, we might expect the oldest living person to be slightly older, perhaps around 125-130 years by 2100.
+
+(d) The expectations of experts and markets:  
+Experts in gerontology and longevity research suggest that while average life expectancy may continue to rise, the maximum lifespan might not increase as dramatically. Some projections suggest the potential for reaching ages of 130-140 years, given medical and technological advancements.
+
+(e) A brief description of an unexpected scenario that results in a low outcome:  
+A global catastrophe, such as a pandemic or environmental disaster, could significantly reduce life expectancy and the maximum age, resulting in the oldest living person being only slightly older than current records, around 120 years.
+
+(f) A brief description of an unexpected scenario that results in a high outcome:  
+Breakthroughs in anti-aging research, genetic engineering, or regenerative medicine could dramatically extend human lifespan, potentially resulting in the oldest living person reaching 150 years or more by 2100.
+
+Final answer:
+"
+Percentile 10: 120
+Percentile 20: 125
+Percentile 40: 130
+Percentile 60: 135
+Percentile 80: 140
+Percentile 90: 145
+"
+[2025-05-15 14:27:43] INFO: === Forecast Result ===
+[2025-05-15 14:27:43] INFO: URL: https://www.metaculus.com/questions/14333
+[2025-05-15 14:27:43] INFO: Prediction: [Percentile(value=110.0, percentile=0.1), Percentile(value=115.0, percentile=0.2), Percentile(value=120.0, percentile=0.4), Percentile(value=125.0, percentile=0.6), Percentile(value=130.0, percentile=0.8), Percentile(value=135.0, percentile=0.9)]
+[2025-05-15 14:27:43] INFO: Reasoning: (a) The time left until the outcome to the question is known is approximately 74 years and 7.5 months, as today is May 15, 2025, and the outcome will be known on January 1, 2100.
+
+(b) The outcome if nothing changed would be around 116 years old, as this is the age of the oldest living person recently.
+
+(c) The outcome if the current trend continued might see the oldest living person reaching around 125-130 years old by 2100. This estimate considers the slow but steady increase in maximum lifespan over the past century, with the record currently at 122 years.
+
+(d) The expectations of experts and markets generally suggest that while average life expectancy will continue to rise, the maximum lifespan may not increase at the same rate. However, some experts believe that advances in biotechnology and medicine could significantly extend human longevity, potentially allowing individuals to live beyond 130 years.
+
+(e) A brief description of an unexpected scenario that results in a low outcome: A global catastrophe, such as a pandemic or environmental disaster, significantly reduces life expectancy and the number of supercentenarians, resulting in the oldest living person in 2100 being only around 110 years old.
+
+(f) A brief description of an unexpected scenario that results in a high outcome: Breakthroughs in anti-aging research and genetic engineering lead to significant extensions in human lifespan, allowing the oldest living person in 2100 to reach 140 years or more.
+
+Final answer:
+"
+Percentile 10: 110
+Percentile 20: 115
+Percentile 40: 120
+Percentile 60: 125
+Percentile 80: 130
+Percentile 90: 135
+"
+[2025-05-15 14:27:44] INFO: === Forecast Result ===
+[2025-05-15 14:27:44] INFO: URL: https://www.metaculus.com/questions/14333
+[2025-05-15 14:27:44] INFO: Prediction: [Percentile(value=120.0, percentile=0.1), Percentile(value=125.0, percentile=0.2), Percentile(value=130.0, percentile=0.4), Percentile(value=135.0, percentile=0.6), Percentile(value=140.0, percentile=0.8), Percentile(value=145.0, percentile=0.9)]
+[2025-05-15 14:27:44] INFO: Reasoning: (a) The time left until the outcome to the question is known:  
+Approximately 74 years and 7.5 months, until January 1, 2100.
+
+(b) The outcome if nothing changed:  
+If we assume no significant changes in longevity, the oldest living person might still be around the current maximum documented age of 122 years.
+
+(c) The outcome if the current trend continued:  
+If the linear trend of increasing life expectancy continues, and assuming the maximum age increases at a similar rate, the oldest living person could potentially reach around 130-135 years by 2100.
+
+(d) The expectations of experts and markets:  
+Experts in gerontology and longevity research generally expect incremental improvements in life expectancy due to advances in medicine and technology. Some optimistic projections suggest breakthroughs in anti-aging research could significantly extend human lifespan, potentially allowing individuals to live beyond 130 years. However, there is no consensus on the extent of these advancements.
+
+(e) A brief description of an unexpected scenario that results in a low outcome:  
+A global health crisis, such as a pandemic or widespread antibiotic resistance, could negatively impact life expectancy and longevity, leading to a scenario where the oldest living person in 2100 is only slightly older than current records, around 120-125 years.
+
+(f) A brief description of an unexpected scenario that results in a high outcome:  
+A major breakthrough in genetic engineering or regenerative medicine could dramatically extend human lifespan, allowing individuals to live well beyond current limits. In such a scenario, the oldest living person in 2100 could be 140 years or older.
+
+Final Answer:
+"
+Percentile 10: 120
+Percentile 20: 125
+Percentile 40: 130
+Percentile 60: 135
+Percentile 80: 140
+Percentile 90: 145
+"
+[2025-05-15 14:27:44] INFO: === Forecast Result ===
+[2025-05-15 14:27:44] INFO: URL: https://www.metaculus.com/questions/14333
+[2025-05-15 14:27:44] INFO: Prediction: [Percentile(value=100.0, percentile=0.1), Percentile(value=110.0, percentile=0.2), Percentile(value=120.0, percentile=0.4), Percentile(value=130.0, percentile=0.6), Percentile(value=140.0, percentile=0.8), Percentile(value=150.0, percentile=0.9)]
+[2025-05-15 14:27:44] INFO: Reasoning: (a) The time left until the outcome to the question is known:  
+Approximately 74 years and 7.5 months, until January 1, 2100.
+
+(b) The outcome if nothing changed:  
+If nothing changed, the oldest living person would be around the current record of 122 years, given that this is the highest documented age reached by a human.
+
+(c) The outcome if the current trend continued:  
+If the current trend of slight increases in maximum age continued, we might expect the oldest living person to be slightly older than the current record, potentially around 125 to 130 years, considering incremental advancements in healthcare and longevity.
+
+(d) The expectations of experts and markets:  
+Experts in gerontology and longevity research generally expect continued advancements in medicine, genetics, and technology to extend human lifespan. However, there is debate about the biological limits of human aging. Some experts suggest a potential maximum lifespan of around 130-150 years, while others are more conservative, suggesting only modest increases beyond the current record.
+
+(e) A brief description of an unexpected scenario that results in a low outcome:  
+A global catastrophe, such as a pandemic, nuclear war, or severe climate change, could drastically reduce life expectancy and the age of the oldest living person, potentially lowering it to below 100 years.
+
+(f) A brief description of an unexpected scenario that results in a high outcome:  
+A breakthrough in anti-aging technology, such as genetic engineering or advanced regenerative medicine, could significantly extend human lifespan, potentially allowing individuals to live well beyond 150 years.
+
+Final answer:
+"
+Percentile 10: 100
+Percentile 20: 110
+Percentile 40: 120
+Percentile 60: 130
+Percentile 80: 140
+Percentile 90: 150
+"
+[2025-05-15 14:27:44] INFO: === Forecast Result ===
+[2025-05-15 14:27:44] INFO: URL: https://www.metaculus.com/questions/14333
+[2025-05-15 14:27:44] INFO: Prediction: [Percentile(value=115.0, percentile=0.1), Percentile(value=118.0, percentile=0.2), Percentile(value=122.0, percentile=0.4), Percentile(value=128.0, percentile=0.6), Percentile(value=135.0, percentile=0.8), Percentile(value=140.0, percentile=0.9)]
+[2025-05-15 14:27:44] INFO: Reasoning: (a) The time left until the outcome to the question is known:  
+Approximately 74 years and 7.5 months remain until January 1, 2100.
+
+(b) The outcome if nothing changed:  
+If nothing changed, the oldest living person would be around 115-116 years old, based on current data of the oldest living individuals.
+
+(c) The outcome if the current trend continued:  
+If the current trend of increasing life expectancy and maximum age continued linearly, the oldest living person might reach around 125-130 years by 2100. This assumes modest improvements in healthcare and living conditions.
+
+(d) The expectations of experts and markets:  
+Experts in gerontology and related fields generally expect continued improvements in life expectancy due to medical advancements, but there is debate about the extent to which maximum lifespan can increase. Some believe breakthroughs in anti-aging research could significantly extend human lifespan, while others are more conservative, predicting only slight increases.
+
+(e) A brief description of an unexpected scenario that results in a low outcome:  
+A global catastrophe, such as a pandemic or environmental disaster, severely impacts human health and life expectancy, resulting in a reduction of the maximum age to around 110 years.
+
+(f) A brief description of an unexpected scenario that results in a high outcome:  
+A major breakthrough in anti-aging technology or genetic engineering occurs, allowing humans to significantly extend their lifespan, resulting in the oldest living person reaching 140 years or more by 2100.
+
+Final answer:
+"
+Percentile 10: 115
+Percentile 20: 118
+Percentile 40: 122
+Percentile 60: 128
+Percentile 80: 135
+Percentile 90: 140
+"
+[2025-05-15 14:27:45] INFO: Research: Perplexity succeeded for https://www.metaculus.com/questions/22427
+[2025-05-15 14:27:54] INFO: === Forecast Result ===
+[2025-05-15 14:27:54] INFO: URL: https://www.metaculus.com/questions/578
+[2025-05-15 14:27:54] INFO: Prediction: 0.1
+[2025-05-15 14:27:54] INFO: Reasoning: (a) The time left until the outcome to the question is known is approximately 75 years, as the question will resolve on January 1, 2100.
+
+(b) The status quo outcome if nothing changed is a "No" outcome, meaning that humans will not go extinct before 2100. This is based on the current assessment of risks and the lack of evidence suggesting imminent extinction.
+
+(c) A brief description of a scenario that results in a No outcome: Humanity continues to manage and mitigate existential risks through international cooperation, technological advancements, and adaptive strategies. Efforts to address climate change, regulate artificial intelligence, and prevent nuclear conflict are successful, leading to a stable and sustainable global society. As a result, humans remain extant by 2100.
+
+(d) A brief description of a scenario that results in a Yes outcome: A series of catastrophic events occur in quick succession, overwhelming humanity's ability to respond. For example, a global nuclear war is followed by an engineered pandemic and exacerbated by runaway climate change, leading to societal collapse and eventual extinction. Despite efforts to mitigate these risks, the combination and timing of these events prove insurmountable.
+
+Rationale: The status quo outcome is given extra weight because the world tends to change slowly, and the current assessment indicates that while existential risks exist, they are not currently leading toward imminent extinction. The adaptability and resilience of human societies, along with ongoing efforts to address these risks, suggest that total extinction is unlikely within the given timeframe.
+
+Final Answer: Probability: 10%
+[2025-05-15 14:27:55] INFO: === Forecast Result ===
+[2025-05-15 14:27:55] INFO: URL: https://www.metaculus.com/questions/578
+[2025-05-15 14:27:55] INFO: Prediction: 0.1
+[2025-05-15 14:27:55] INFO: Reasoning: (a) The time left until the outcome to the question is known is approximately 75 years, as the question resolves on January 1, 2100.
+
+(b) The status quo outcome, if nothing changes, is that humans will not go extinct before 2100. This is based on the current assessment of risks and the absence of any immediate or credible threats that could lead to total human extinction.
+
+(c) A scenario that results in a No outcome could involve continued global efforts to mitigate existential risks, such as international cooperation to prevent nuclear war, advancements in technology to counteract climate change, and the development of robust safety measures for artificial intelligence. Additionally, humanity's adaptability and resilience in the face of challenges would contribute to survival.
+
+(d) A scenario that results in a Yes outcome could involve a catastrophic chain of events, such as a global nuclear war followed by a nuclear winter, leading to the collapse of ecosystems and human society. Alternatively, a runaway artificial intelligence or an engineered pandemic could potentially lead to human extinction if not adequately controlled or mitigated.
+
+Rationale: Given the current assessment of risks and the absence of immediate threats, the probability of human extinction before 2100 remains low. While several existential risks exist, they are being actively monitored and mitigated. The status quo outcome, which is that humans will not go extinct, should be given significant weight due to the slow pace of change in global risk factors and the resilience of human society.
+
+Final Answer: Probability: 10%
+[2025-05-15 14:27:55] INFO: === Forecast Result ===
+[2025-05-15 14:27:55] INFO: URL: https://www.metaculus.com/questions/22427
+[2025-05-15 14:27:55] INFO: Prediction: predicted_options=[PredictedOption(option_name='0 or 1', probability=0.25), PredictedOption(option_name='2 or 3', probability=0.35), PredictedOption(option_name='4 or 5', probability=0.2), PredictedOption(option_name='6 or 7', probability=0.1), PredictedOption(option_name='8 or 9', probability=0.05), PredictedOption(option_name='10 or more', probability=0.05)]
+[2025-05-15 14:27:55] INFO: Reasoning: (a) The time left until the outcome to the question is known:  
+There are approximately 4 years and 7.5 months left until the end of 2029, which is the deadline for determining how many new AI labs will become leading labs within two years of their founding.
+
+(b) The status quo outcome if nothing changed:  
+Currently, the leading AI labs are well-established entities like OpenAI, Anthropic, Google DeepMind, Cohere, and Mistral AI. If the current trends continue without significant disruption, the status quo outcome might lean towards fewer new labs breaking into the top five, possibly in the '0 or 1' or '2 or 3' range. This is because the existing labs have substantial resources, talent, and market presence, making it challenging for new entrants to quickly reach a leading position.
+
+(c) A description of a scenario that results in an unexpected outcome:  
+An unexpected outcome could occur if there is a significant technological breakthrough or paradigm shift in AI that levels the playing field, allowing new entrants to leapfrog established labs. For example, if a new approach to AI, such as quantum computing-based AI or a novel neural architecture, emerges and is rapidly commercialized by a new lab, it could disrupt the current hierarchy. Additionally, if regulatory changes or geopolitical shifts favor new entrants, this could also lead to more new labs becoming leaders.
+
+Rationale:  
+While the current landscape is dominated by a few major players, the rapid pace of innovation and investment in AI suggests that there is potential for new labs to emerge as leaders. The examples of recent startups achieving significant funding and growth indicate that the barriers to entry, while high, are not insurmountable. However, the established labs have a strong foothold, and the transition to becoming a leading lab typically requires not just innovation but also substantial resources and strategic positioning. Therefore, while the possibility of multiple new labs becoming leaders exists, it is tempered by the challenges of competing with entrenched incumbents.
+
+Final probabilities:  
+Option_0 or 1: 25%  
+Option_2 or 3: 35%  
+Option_4 or 5: 20%  
+Option_6 or 7: 10%  
+Option_8 or 9: 5%  
+Option_10 or more: 5%  
+[2025-05-15 14:27:55] INFO: === Forecast Result ===
+[2025-05-15 14:27:55] INFO: URL: https://www.metaculus.com/questions/22427
+[2025-05-15 14:27:55] INFO: Prediction: predicted_options=[PredictedOption(option_name='0 or 1', probability=0.4), PredictedOption(option_name='2 or 3', probability=0.3), PredictedOption(option_name='4 or 5', probability=0.15), PredictedOption(option_name='6 or 7', probability=0.1), PredictedOption(option_name='8 or 9', probability=0.04), PredictedOption(option_name='10 or more', probability=0.01)]
+[2025-05-15 14:27:55] INFO: Reasoning: (a) **The time left until the outcome to the question is known:**  
+The outcome will be determined by the end of 2029, which gives us approximately 4.5 years from the current date (2025-05-15) to observe the emergence of new leading AI labs.
+
+(b) **The status quo outcome if nothing changed:**  
+As of now, the leading AI labs are OpenAI, Anthropic, Google DeepMind, Cohere, and Mistral AI. If the current landscape remains stable and no new labs emerge to challenge these incumbents, the status quo outcome would be '0 or 1' new leading AI labs by 2030. This assumes that the current top labs continue to dominate without significant disruption from new entrants.
+
+(c) **A description of a scenario that results in an unexpected outcome:**  
+An unexpected outcome could occur if there is a sudden technological breakthrough or shift in the AI paradigm that lowers the barriers to entry for new labs. For example, if a new open-source AI framework becomes widely adopted and enables rapid development of competitive AI models, several new labs could quickly rise to prominence. Additionally, geopolitical factors or significant changes in funding dynamics (e.g., a major increase in government or private investment in AI) could accelerate the emergence of new leading labs.
+
+**Rationale:**  
+1. **Status Quo Bias:** The current leading labs have significant resources, talent, and market presence, which makes it challenging for new entrants to quickly surpass them. Therefore, the status quo outcome ('0 or 1') should be given considerable weight.
+
+2. **Emerging Trends:** The evidence of rapidly emerging AI startups with substantial funding and innovative approaches suggests that there is potential for disruption. However, becoming a top 5 lab within two years of founding is a high bar, given the competitive landscape.
+
+3. **Uncertainty and Unexpected Outcomes:** While the current trajectory suggests the possibility of new leading labs, the future is inherently uncertain. Technological breakthroughs, shifts in funding, or changes in regulatory environments could lead to unexpected outcomes.
+
+**Final Probabilities:**
+- '0 or 1': 40%
+- '2 or 3': 30%
+- '4 or 5': 15%
+- '6 or 7': 10%
+- '8 or 9': 4%
+- '10 or more': 1%
+[2025-05-15 14:27:55] INFO: === Forecast Result ===
+[2025-05-15 14:27:55] INFO: URL: https://www.metaculus.com/questions/578
+[2025-05-15 14:27:55] INFO: Prediction: 0.1
+[2025-05-15 14:27:55] INFO: Reasoning: (a) The time left until the outcome to the question is known is approximately 75 years, as the question will resolve on January 1, 2100.
+
+(b) The status quo outcome, if nothing changed, would be a "No" to the question of whether humans will go extinct before 2100. Current assessments and expert consensus suggest that while there are existential risks, the probability of total human extinction within this timeframe remains low.
+
+(c) A scenario that results in a No outcome could involve continued global efforts to mitigate existential risks, such as international cooperation on climate change, nuclear disarmament, and the regulation of artificial intelligence. Advances in technology and science could also help humanity adapt to and overcome potential threats, ensuring survival beyond 2100.
+
+(d) A scenario that results in a Yes outcome could involve a combination of catastrophic events, such as a global nuclear war, a runaway engineered pandemic, or an unforeseen technological disaster (e.g., AI gone rogue) that leads to the rapid and total collapse of human civilization. This scenario would require multiple risk factors to align in a way that overwhelms humanity's ability to respond and adapt.
+
+Rationale: Given the current status and expert assessments, the probability of human extinction before 2100 is considered low. The status quo outcome is a "No," and historical trends suggest that while risks exist, humanity has shown resilience and adaptability in the face of challenges. The world changes slowly most of the time, and significant efforts are being made to address and mitigate existential risks.
+
+Final Answer: Probability: 10%
+[2025-05-15 14:27:56] INFO: === Forecast Result ===
+[2025-05-15 14:27:56] INFO: URL: https://www.metaculus.com/questions/578
+[2025-05-15 14:27:56] INFO: Prediction: 0.1
+[2025-05-15 14:27:56] INFO: Reasoning: (a) The time left until the outcome to the question is known is approximately 75 years, as the question will be resolved on January 1, 2100.
+
+(b) The status quo outcome, if nothing changed, is that humans will not go extinct before 2100. This is based on current assessments and expert opinions which suggest that while there are existential risks, the probability of total human extinction within this timeframe remains low.
+
+(c) A scenario that results in a No outcome could involve continued advancements in technology and international cooperation to mitigate existential risks. For example, global efforts to address climate change could lead to significant reductions in greenhouse gas emissions, while international treaties and diplomatic efforts could prevent nuclear conflict. Additionally, advancements in biotechnology and healthcare could prevent engineered pandemics, and robust AI safety measures could mitigate risks from artificial intelligence.
+
+(d) A scenario that results in a Yes outcome might involve a combination of catastrophic events. For instance, a global nuclear war could lead to widespread destruction and a nuclear winter, drastically reducing the human population. This could be compounded by a simultaneous engineered pandemic that spreads rapidly due to weakened global infrastructure. If these events were to occur alongside runaway climate change or an unforeseen natural disaster like a supervolcanic eruption, the cumulative effects could potentially lead to human extinction.
+
+Rationale: Given the current status and expert assessments, the probability of human extinction before 2100 is considered low. The status quo outcome is heavily weighted because the world tends to change slowly, and there is no immediate evidence suggesting an imminent extinction event. While existential risks exist, ongoing efforts to mitigate these risks and the resilience of human societies make total extinction unlikely within the next 75 years.
+
+Final Answer: Probability: 10%
+[2025-05-15 14:27:56] INFO: === Forecast Result ===
+[2025-05-15 14:27:56] INFO: URL: https://www.metaculus.com/questions/578
+[2025-05-15 14:27:56] INFO: Prediction: 0.1
+[2025-05-15 14:27:56] INFO: Reasoning: (a) The time left until the outcome to the question is known is approximately 75 years, as the question will resolve on January 1, 2100.
+
+(b) The status quo outcome, if nothing changed, would be that humans do not go extinct before 2100. This is based on the current assessments and probabilities of extinction risks, which are generally low.
+
+(c) A scenario that results in a No outcome: Despite ongoing challenges such as climate change, geopolitical tensions, and technological risks, humanity continues to adapt and mitigate these threats through international cooperation, technological innovation, and sustainable practices. Global efforts to reduce carbon emissions succeed in keeping climate change within manageable limits, and advancements in AI safety and biosecurity prevent catastrophic outcomes. By 2100, humans remain resilient and continue to thrive, albeit with some societal and environmental changes.
+
+(d) A scenario that results in a Yes outcome: A series of cascading crises occur, starting with a severe geopolitical conflict that escalates into a nuclear war, leading to widespread devastation. This is followed by a global pandemic caused by an engineered pathogen, which further decimates the population. Concurrently, runaway climate change triggers extreme weather events and ecological collapse, severely compromising food and water supplies. In this scenario, the compounded effects of these crises lead to the extinction of humans before 2100.
+
+Rationale: Given the current assessments and expert opinions, the probability of human extinction before 2100 remains low. While there are significant risks, humanity has historically demonstrated resilience and adaptability in the face of existential threats. The status quo outcome, based on current knowledge and trends, suggests that humans will not go extinct before 2100. It is important to consider that the world changes slowly most of the time, and dramatic shifts leading to extinction are unlikely without significant and unforeseen developments.
+
+Final Answer: Probability: 10%
+[2025-05-15 14:27:57] INFO: === Forecast Result ===
+[2025-05-15 14:27:57] INFO: URL: https://www.metaculus.com/questions/22427
+[2025-05-15 14:27:57] INFO: Prediction: predicted_options=[PredictedOption(option_name='0 or 1', probability=0.2), PredictedOption(option_name='2 or 3', probability=0.3), PredictedOption(option_name='4 or 5', probability=0.25), PredictedOption(option_name='6 or 7', probability=0.15), PredictedOption(option_name='8 or 9', probability=0.07), PredictedOption(option_name='10 or more', probability=0.03)]
+[2025-05-15 14:27:57] INFO: Reasoning: (a) **The time left until the outcome to the question is known:**  
+There are approximately 4 years and 7.5 months remaining until the end of 2029, at which point the outcome of the question will be known.
+
+(b) **The status quo outcome if nothing changed:**  
+As of now, no new AI labs founded after the question's launch have become leading labs within two years. If the current trend of AI lab formation and growth were to remain unchanged, the status quo outcome would likely be '0 or 1'. This is because, historically, becoming a leading AI lab within two years is a challenging feat, requiring significant breakthroughs and resources.
+
+(c) **A description of a scenario that results in an unexpected outcome:**  
+An unexpected outcome could occur if there is a sudden technological breakthrough or a major shift in the AI landscape that dramatically lowers the barriers to entry for new AI labs. For instance, if a novel AI framework or platform emerges that enables rapid development and deployment of competitive AI models, this could lead to a surge in new labs achieving leading status. Additionally, if there is a geopolitical shift that results in massive government funding or incentives for AI development in certain regions, this could also accelerate the rise of new leading labs.
+
+**Rationale:**  
+1. **Status Quo Bias:** The world tends to change slowly, and becoming a leading AI lab is a significant achievement that requires not only technological innovation but also substantial financial and human resources. Historically, the AI field has been dominated by a few major players, and while new entrants do emerge, they often take time to reach the top ranks.
+
+2. **Current Trends:** The evidence provided by my research assistant suggests that there is a strong trend of new AI startups receiving significant funding and achieving rapid growth. This indicates a fertile environment for new labs to potentially become leaders, especially with the support of innovation hubs and ecosystems.
+
+3. **Uncertainty and Unexpected Outcomes:** While the current trajectory suggests multiple new labs could become leaders, there is always uncertainty in forecasting. Technological, economic, or geopolitical changes could either accelerate or hinder the rise of new labs. Therefore, it is prudent to assign moderate probabilities to most options to account for these possibilities.
+
+**Final Probabilities:**
+- Option_0 or 1: 20%
+- Option_2 or 3: 30%
+- Option_4 or 5: 25%
+- Option_6 or 7: 15%
+- Option_8 or 9: 7%
+- Option_10 or more: 3%
+[2025-05-15 14:27:57] INFO: === Forecast Result ===
+[2025-05-15 14:27:57] INFO: URL: https://www.metaculus.com/questions/22427
+[2025-05-15 14:27:57] INFO: Prediction: predicted_options=[PredictedOption(option_name='0 or 1', probability=0.4), PredictedOption(option_name='2 or 3', probability=0.3), PredictedOption(option_name='4 or 5', probability=0.15), PredictedOption(option_name='6 or 7', probability=0.08), PredictedOption(option_name='8 or 9', probability=0.05), PredictedOption(option_name='10 or more', probability=0.02)]
+[2025-05-15 14:27:57] INFO: Reasoning: (a) The time left until the outcome to the question is known is approximately 4 years and 7.5 months, as the question resolves by the end of 2029.
+
+(b) The status quo outcome if nothing changed would likely be '0 or 1'. Historically, the establishment of leading AI labs has been dominated by a few major players, and the transition to becoming a leading lab typically takes time due to the need for significant technological breakthroughs, talent acquisition, and market recognition.
+
+(c) An unexpected scenario could involve a major technological breakthrough or paradigm shift in AI that significantly lowers the barriers to entry for new labs to develop leading models. This could be coupled with a surge in venture capital funding and a global push for decentralization in AI development, leading to a rapid proliferation of new labs achieving leading status within a short time frame. Additionally, geopolitical factors or regulatory changes might encourage the establishment of new labs in regions previously underrepresented in AI development, accelerating their rise to prominence.
+
+Rationale:
+1. **Status Quo Bias**: Historically, the AI landscape has been dominated by a few large players, and while there is an influx of new startups, becoming a leading lab typically requires significant resources, talent, and time. The current leading labs have established reputations, extensive datasets, and advanced infrastructure that new labs will need to compete against.
+
+2. **Current Trends**: The evidence provided by the research assistant suggests a growing number of well-funded AI startups. However, reaching the top 5 in ELO ratings within two years of founding is a high bar, given the competitive landscape and the need for substantial technological advancements.
+
+3. **Potential for Rapid Change**: While the AI field is dynamic, and new players can emerge quickly, the requirement to be in the top 5 within two years is stringent. However, the rapid pace of AI development and investment could lead to more new labs achieving this status than historically expected.
+
+4. **Uncertainty and Unexpected Outcomes**: Given the unpredictable nature of technological advancements and market dynamics, it's prudent to assign some probability to higher numbers of new leading labs.
+
+Final probabilities:
+- '0 or 1': 40%
+- '2 or 3': 30%
+- '4 or 5': 15%
+- '6 or 7': 8%
+- '8 or 9': 5%
+- '10 or more': 2%
+[2025-05-15 14:27:57] INFO: === Forecast Result ===
+[2025-05-15 14:27:57] INFO: URL: https://www.metaculus.com/questions/22427
+[2025-05-15 14:27:57] INFO: Prediction: predicted_options=[PredictedOption(option_name='0 or 1', probability=0.30000000000000004), PredictedOption(option_name='2 or 3', probability=0.35000000000000003), PredictedOption(option_name='4 or 5', probability=0.20000000000000004), PredictedOption(option_name='6 or 7', probability=0.10000000000000002), PredictedOption(option_name='8 or 9', probability=0.030000000000000002), PredictedOption(option_name='10 or more', probability=0.019999999999999782)]
+[2025-05-15 14:27:57] INFO: Reasoning: (a) **The time left until the outcome to the question is known:**  
+The question will resolve by the end of 2030, which means there are approximately 5 years and 7.5 months remaining from today's date of May 15, 2025.
+
+(b) **The status quo outcome if nothing changed:**  
+As of now, no new AI labs founded after the question launch have become leading labs within two years of their founding. If no new labs achieve this status by 2030, the outcome would be '0 or 1'.
+
+(c) **A description of a scenario that results in an unexpected outcome:**  
+An unexpected outcome could occur if there is a significant technological breakthrough or a shift in AI research paradigms that drastically lowers the barriers to entry for new AI labs. This could lead to a surge in the number of new labs capable of rapidly developing leading AI models. Additionally, geopolitical factors, such as increased government support or international collaborations, could accelerate the emergence of new leading labs.
+
+**Rationale:**
+
+1. **Status Quo and Historical Trends:**  
+The current leading AI labs have established themselves over several years, often with substantial backing from large tech companies or significant venture capital investment. Historically, the emergence of new leading labs has been relatively slow, with only a few new entrants achieving top status within short timeframes. This suggests that the status quo outcome of '0 or 1' should be given significant weight.
+
+2. **Current Trends and Evidence:**  
+Recent examples of rapidly emerging AI startups with substantial funding and technological advancements indicate a potential shift towards faster establishment of new leading labs. The presence of innovation hubs and strong ecosystem support further enhances the likelihood of new entrants achieving leading status. However, the transition from a promising startup to a leading AI lab is complex and involves overcoming significant technical and competitive challenges.
+
+3. **Uncertainty and Unexpected Outcomes:**  
+While the current trajectory suggests the possibility of multiple new leading labs, the inherent uncertainty in technological development and market dynamics means that unexpected outcomes cannot be ruled out. Factors such as regulatory changes, economic downturns, or shifts in AI research focus could impact the emergence of new labs.
+
+**Final Probabilities:**
+
+- Option_0 or 1: 30%
+- Option_2 or 3: 35%
+- Option_4 or 5: 20%
+- Option_6 or 7: 10%
+- Option_8 or 9: 3%
+- Option_10 or more: 2%
+[2025-05-15 14:27:58] INFO: === Run Summary ===
+[2025-05-15 14:27:58] INFO: Total questions: 3
+[2025-05-15 14:27:58] INFO: Successful research: 3
+[2025-05-15 14:27:58] INFO: Failed research: 0
+[2025-05-15 14:27:58] INFO: Success rate: 100.00%
