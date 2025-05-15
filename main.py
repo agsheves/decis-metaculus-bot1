@@ -62,7 +62,8 @@ class TemplateForecaster(ForecastBot):
         2  # Set this to whatever works for your search-provider/ai-model rate limits
     )
     _concurrency_limiter = asyncio.Semaphore(_max_concurrent_questions)
-# Added research validation to handle empty repsonses or 403 errors encountered with AskNews
+
+    # Added research validation to handle empty repsonses or 403 errors encountered with AskNews
     async def run_research(self, question: MetaculusQuestion) -> str:
         async with self._concurrency_limiter:
             research = ""
@@ -77,8 +78,8 @@ class TemplateForecaster(ForecastBot):
                 research = await self._call_perplexity(question.question_text)
                 if not self.check_research_response(research):
                     research = ""
-#Spare slot for other search engines
-            #if not research and os.getenv("XXOTHER_SEARCH_ENGINE_KEY"):
+            # Spare slot for other search engines
+            # if not research and os.getenv("XXOTHER_SEARCH_ENGINE_KEY"):
             #    research = await self._CALL_OTHER_SEARCH_ENGINE(
             #       XXSEARCH_PARAMATERS
             #    )
@@ -98,7 +99,7 @@ class TemplateForecaster(ForecastBot):
             return False
         if "No relevant news found" in research:
             return False
-        if "400" in research:
+        if "400" in research or "403" in research:
             return False
         return True
 
