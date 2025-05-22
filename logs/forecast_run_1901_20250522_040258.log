@@ -1,0 +1,158 @@
+[2025-05-22 04:02:58] INFO: === Starting new forecast run (Run #1901) ===
+[2025-05-22 04:02:58] INFO: Environment: GitHub Actions
+[2025-05-22 04:02:58] INFO: Repository: agsheves/decis-metaculus-bot1
+[2025-05-22 04:02:58] INFO: Workflow: Forecast on new AI tournament questions
+[2025-05-22 04:02:58] INFO: Commit: e2c201f8861fb43a51c53d6b0321a9520e9f1f41
+[2025-05-22 04:02:58] INFO: === Question 1 ===
+[2025-05-22 04:02:58] INFO: URL: https://www.metaculus.com/questions/37824
+[2025-05-22 04:02:58] INFO: Text: How many Sudanese refugees will be in Chad on July 1, 2025, according to UNHCR?
+[2025-05-22 04:03:10] INFO: Research: Perplexity succeeded for https://www.metaculus.com/questions/37824
+[2025-05-22 04:03:16] INFO: === Forecast Result ===
+[2025-05-22 04:03:16] INFO: URL: https://www.metaculus.com/questions/37824
+[2025-05-22 04:03:16] INFO: Prediction: [Percentile(value=800000.0, percentile=0.1), Percentile(value=820000.0, percentile=0.2), Percentile(value=850000.0, percentile=0.4), Percentile(value=880000.0, percentile=0.6), Percentile(value=910000.0, percentile=0.8), Percentile(value=940000.0, percentile=0.9)]
+[2025-05-22 04:03:16] INFO: Reasoning: (a) The time left until the outcome to the question is known:  
+There are approximately 40 days left until July 1, 2025.
+
+(b) The outcome if nothing changed:  
+If the number of Sudanese refugees in Chad remained constant from the most recent figure of 794,000 as of May 6, 2025, the outcome would be 794,000.
+
+(c) The outcome if the current trend continued:  
+Based on the recent influx rate of 10,000 to 20,000 refugees per week, and assuming this trend continues for the next 40 days (approximately 5.7 weeks), the number of additional refugees could range from 57,000 to 114,000. Adding this to the 794,000 figure, the outcome could range from approximately 851,000 to 908,000.
+
+(d) The expectations of experts and markets:  
+Experts likely expect the refugee numbers to continue increasing due to ongoing conflict and violence in Sudan. However, exact projections are uncertain, and external factors such as international intervention or changes in the conflict could alter the trend.
+
+(e) A brief description of an unexpected scenario that results in a low outcome:  
+A sudden and effective peace agreement in Sudan could drastically reduce the flow of refugees, stabilizing the number in Chad at or near current levels.
+
+(f) A brief description of an unexpected scenario that results in a high outcome:  
+An escalation in violence or a new conflict outbreak in Sudan could lead to a massive surge in refugee numbers, significantly exceeding current trends.
+
+Final Answer:
+"
+Percentile 10: 800,000
+Percentile 20: 820,000
+Percentile 40: 850,000
+Percentile 60: 880,000
+Percentile 80: 910,000
+Percentile 90: 940,000
+"
+[2025-05-22 04:03:16] INFO: === Forecast Result ===
+[2025-05-22 04:03:16] INFO: URL: https://www.metaculus.com/questions/37824
+[2025-05-22 04:03:16] INFO: Prediction: [Percentile(value=800000.0, percentile=0.1), Percentile(value=820000.0, percentile=0.2), Percentile(value=860000.0, percentile=0.4), Percentile(value=900000.0, percentile=0.6), Percentile(value=950000.0, percentile=0.8), Percentile(value=1000000.0, percentile=0.9)]
+[2025-05-22 04:03:16] INFO: Reasoning: (a) The time left until the outcome to the question is known:  
+There are approximately 1 month and 9 days left until July 1, 2025.
+
+(b) The outcome if nothing changed:  
+If the number of Sudanese refugees in Chad remained the same as reported on May 6, 2025, the outcome would be 794,000.
+
+(c) The outcome if the current trend continued:  
+The current trend suggests an influx of approximately 10,000 to 20,000 refugees per week. Assuming an average of 15,000 new arrivals per week over the next 5 weeks, this would result in an additional 75,000 refugees, bringing the total to approximately 869,000.
+
+(d) The expectations of experts and markets:  
+Experts anticipate continued violence and instability in Sudan, leading to a sustained or even increased flow of refugees into Chad. However, the exact numbers can be difficult to predict due to potential changes in conflict dynamics, international interventions, or border policies.
+
+(e) A brief description of an unexpected scenario that results in a low outcome:  
+A sudden and effective peace agreement in Sudan could drastically reduce the flow of refugees, potentially stabilizing or even decreasing the number of Sudanese refugees in Chad.
+
+(f) A brief description of an unexpected scenario that results in a high outcome:  
+An escalation of violence or a new conflict outbreak in Sudan could lead to a massive surge in refugee numbers, potentially overwhelming border crossings and increasing the refugee population in Chad significantly.
+
+Final answer:
+```
+Percentile 10: 800,000
+Percentile 20: 820,000
+Percentile 40: 860,000
+Percentile 60: 900,000
+Percentile 80: 950,000
+Percentile 90: 1,000,000
+```
+[2025-05-22 04:03:17] INFO: === Forecast Result ===
+[2025-05-22 04:03:17] INFO: URL: https://www.metaculus.com/questions/37824
+[2025-05-22 04:03:17] INFO: Prediction: [Percentile(value=800000.0, percentile=0.1), Percentile(value=820000.0, percentile=0.2), Percentile(value=850000.0, percentile=0.4), Percentile(value=870000.0, percentile=0.6), Percentile(value=900000.0, percentile=0.8), Percentile(value=930000.0, percentile=0.9)]
+[2025-05-22 04:03:17] INFO: Reasoning: (a) The time left until the outcome to the question is known is approximately 1 month and 9 days, as today is May 22, 2025, and the question resolves on July 1, 2025.
+
+(b) The outcome if nothing changed would be 794,000 Sudanese refugees in Chad, as this is the most recent number reported as of May 6, 2025.
+
+(c) The outcome if the current trend continued, with an influx of approximately 10,000-20,000 new refugees per week, would result in an additional 40,000 to 80,000 refugees by July 1, 2025. This would bring the total to between 834,000 and 874,000 refugees.
+
+(d) The expectations of experts and markets are likely that the number of refugees will continue to increase due to ongoing conflict and violence in Sudan, particularly in the North Darfur region. The situation is dire, with significant numbers of women and children among the refugees, and continued reports of new arrivals and people en route to the border.
+
+(e) A brief description of an unexpected scenario that results in a low outcome: A sudden and effective peace agreement is reached in Sudan, leading to a significant reduction in violence and a halt in the flow of refugees. Additionally, some refugees may begin to return to Sudan if the situation stabilizes.
+
+(f) A brief description of an unexpected scenario that results in a high outcome: The conflict in Sudan escalates dramatically, leading to a massive surge in the number of people fleeing to Chad. Additionally, new routes or border crossings could open, facilitating a larger influx of refugees than previously anticipated.
+
+Final Answer:
+"
+Percentile 10: 800,000
+Percentile 20: 820,000
+Percentile 40: 850,000
+Percentile 60: 870,000
+Percentile 80: 900,000
+Percentile 90: 930,000
+"
+[2025-05-22 04:03:17] INFO: === Forecast Result ===
+[2025-05-22 04:03:17] INFO: URL: https://www.metaculus.com/questions/37824
+[2025-05-22 04:03:17] INFO: Prediction: [Percentile(value=800000.0, percentile=0.1), Percentile(value=820000.0, percentile=0.2), Percentile(value=860000.0, percentile=0.4), Percentile(value=900000.0, percentile=0.6), Percentile(value=940000.0, percentile=0.8), Percentile(value=980000.0, percentile=0.9)]
+[2025-05-22 04:03:17] INFO: Reasoning: (a) The time left until the outcome to the question is known:  
+There are approximately 40 days left until July 1, 2025.
+
+(b) The outcome if nothing changed:  
+If the number of Sudanese refugees in Chad remained constant from the early May 2025 figure, the outcome would be 794,000 refugees.
+
+(c) The outcome if the current trend continued:  
+The current trend suggests an influx of approximately 10,000 to 20,000 refugees per week. Assuming an average of 15,000 new arrivals per week over the next 6 weeks, this would result in an additional 90,000 refugees, bringing the total to approximately 884,000 refugees by July 1, 2025.
+
+(d) The expectations of experts and markets:  
+Experts likely expect the refugee numbers to continue increasing due to ongoing conflict and violence in Sudan. The consistent and significant influx of refugees suggests that the situation in Sudan is not improving, and the border remains open for aid deliveries, facilitating continued refugee movement.
+
+(e) A brief description of an unexpected scenario that results in a low outcome:  
+A sudden peace agreement or ceasefire in Sudan could drastically reduce the number of refugees fleeing to Chad. Additionally, if Chad were to close its borders or significantly restrict refugee entry, the numbers could stagnate or even decrease.
+
+(f) A brief description of an unexpected scenario that results in a high outcome:  
+An escalation in violence or a new outbreak of conflict in Sudan could lead to a dramatic increase in the number of refugees. Additionally, if other border crossings are opened or if aid organizations increase their capacity to process and transport refugees, the numbers could surge.
+
+Final Answer:
+```
+Percentile 10: 800,000
+Percentile 20: 820,000
+Percentile 40: 860,000
+Percentile 60: 900,000
+Percentile 80: 940,000
+Percentile 90: 980,000
+```
+[2025-05-22 04:03:17] INFO: === Forecast Result ===
+[2025-05-22 04:03:17] INFO: URL: https://www.metaculus.com/questions/37824
+[2025-05-22 04:03:17] INFO: Prediction: [Percentile(value=800000.0, percentile=0.1), Percentile(value=820000.0, percentile=0.2), Percentile(value=850000.0, percentile=0.4), Percentile(value=870000.0, percentile=0.6), Percentile(value=900000.0, percentile=0.8), Percentile(value=930000.0, percentile=0.9)]
+[2025-05-22 04:03:17] INFO: Reasoning: (a) The time left until the outcome to the question is known:  
+There are approximately 1 month and 9 days left until July 1, 2025.
+
+(b) The outcome if nothing changed:  
+If the number of Sudanese refugees in Chad remained constant from the last reported figure on May 6, 2025, the outcome would be 794,000 refugees.
+
+(c) The outcome if the current trend continued:  
+Based on the recent influx rate of approximately 10,000 to 20,000 refugees per week, and assuming this trend continues for the next 5 weeks, we could expect an additional 50,000 to 100,000 refugees by July 1, 2025. This would result in a total of approximately 844,000 to 894,000 refugees.
+
+(d) The expectations of experts and markets:  
+Experts likely expect the number of refugees to continue increasing due to ongoing conflict and instability in Sudan. Humanitarian organizations and analysts might project a continued high influx unless significant diplomatic or military interventions occur to stabilize the region.
+
+(e) A brief description of an unexpected scenario that results in a low outcome:  
+A sudden and effective peace agreement in Sudan leads to a rapid de-escalation of violence, significantly reducing the flow of refugees. Additionally, improved conditions in Sudan could result in some refugees returning home, leading to a lower number of refugees in Chad.
+
+(f) A brief description of an unexpected scenario that results in a high outcome:  
+An escalation in violence or a new conflict in Sudan could lead to a massive surge in refugees, far exceeding current trends. Additionally, a natural disaster or severe humanitarian crisis in Sudan could exacerbate the situation, leading to a dramatic increase in refugee numbers.
+
+Final Answer:
+"
+Percentile 10: 800,000
+Percentile 20: 820,000
+Percentile 40: 850,000
+Percentile 60: 870,000
+Percentile 80: 900,000
+Percentile 90: 930,000
+"
+[2025-05-22 04:03:18] INFO: === Run Summary ===
+[2025-05-22 04:03:18] INFO: Total questions: 1
+[2025-05-22 04:03:18] INFO: Successful research: 1
+[2025-05-22 04:03:18] INFO: Failed research: 0
+[2025-05-22 04:03:18] INFO: Success rate: 100.00%
