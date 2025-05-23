@@ -1,0 +1,84 @@
+[2025-05-23 04:02:04] INFO: === Starting new forecast run (Run #1948) ===
+[2025-05-23 04:02:04] INFO: Environment: GitHub Actions
+[2025-05-23 04:02:04] INFO: Repository: agsheves/decis-metaculus-bot1
+[2025-05-23 04:02:04] INFO: Workflow: Forecast on new AI tournament questions
+[2025-05-23 04:02:04] INFO: Commit: 823973f4ba17d7c425d486c858ec074550c05d12
+[2025-05-23 04:02:04] INFO: === Question 1 ===
+[2025-05-23 04:02:04] INFO: URL: https://www.metaculus.com/questions/37836
+[2025-05-23 04:02:04] INFO: Text: Will there be greater than 31 direct flight destinations from Erbil, Iraq on July 1, 2025?
+[2025-05-23 04:02:14] INFO: Research: Perplexity succeeded for https://www.metaculus.com/questions/37836
+[2025-05-23 04:02:19] INFO: === Forecast Result ===
+[2025-05-23 04:02:19] INFO: URL: https://www.metaculus.com/questions/37836
+[2025-05-23 04:02:19] INFO: Prediction: 0.6
+[2025-05-23 04:02:19] INFO: Reasoning: (a) The time left until the outcome to the question is known is approximately 1 month and 8 days, as today is May 23, 2025, and the outcome will be determined on or after July 1, 2025.
+
+(b) The status quo outcome, if nothing changed, would be "No," as the most reliable sources currently indicate that there are 30 direct flight destinations from Erbil International Airport, with one source mentioning 32 destinations. However, the discrepancy suggests that the number is likely closer to 31, given the recent and upcoming route developments.
+
+(c) A scenario that results in a No outcome would involve no additional routes being announced or launched before July 1, 2025, and the current routes remaining stable. This would mean that the number of direct flight destinations remains at 31 or fewer, depending on how the current destinations are counted.
+
+(d) A scenario that results in a Yes outcome would involve the announcement and launch of at least one more new direct flight route from Erbil before July 1, 2025. This could occur if an airline decides to introduce a new destination or if an existing route that was not previously counted becomes operational.
+
+Rationale: Given the current information and the tendency for the status quo to persist, it is reasonable to assign a higher probability to the "No" outcome. The discrepancy in the number of destinations suggests that the current count is likely around 31, and without additional announcements or launches, the number is unlikely to exceed 31. However, the possibility of new routes being announced or launched within the next month cannot be entirely discounted.
+
+Probability: 60%
+[2025-05-23 04:02:19] INFO: === Forecast Result ===
+[2025-05-23 04:02:19] INFO: URL: https://www.metaculus.com/questions/37836
+[2025-05-23 04:02:19] INFO: Prediction: 0.4
+[2025-05-23 04:02:19] INFO: Reasoning: (a) The time left until the outcome to the question is known is approximately 1 month and 8 days, as today is May 23, 2025, and the outcome will be determined on or after July 1, 2025.
+
+(b) The status quo outcome if nothing changed would be "No," as the most reliable sources currently indicate 30 direct flight destinations, with one source mentioning 32. However, considering the discrepancy, the status quo leans towards the lower count, which is below the threshold of greater than 31.
+
+(c) A scenario that results in a No outcome could involve no additional routes being announced or launched before July 1, 2025. Additionally, if any of the current routes are discontinued or if the discrepancy in destination counts is resolved in favor of the lower number, the outcome would remain No.
+
+(d) A scenario that results in a Yes outcome could involve the announcement and commencement of new direct flight routes from Erbil to additional destinations before July 1, 2025. This could include airlines expanding their operations or new airlines entering the market, increasing the total number of direct destinations to greater than 31.
+
+Rationale: Given the current information, the status quo suggests a No outcome, as the most reliable sources indicate 30 destinations, and the discrepancy with the 32 count might include routes not yet operational. The world tends to change slowly, and with only a little over a month remaining, significant changes in the number of destinations are less likely. However, the possibility of new route announcements or operational changes cannot be entirely ruled out.
+
+Final Answer: "Probability: 40%"
+[2025-05-23 04:02:19] INFO: === Forecast Result ===
+[2025-05-23 04:02:19] INFO: URL: https://www.metaculus.com/questions/37836
+[2025-05-23 04:02:19] INFO: Prediction: 0.4
+[2025-05-23 04:02:19] INFO: Reasoning: (a) The time left until the outcome to the question is known is approximately 1 month and 8 days, as today is May 23, 2025, and the outcome will be checked on or after July 1, 2025.
+
+(b) The status quo outcome, if nothing changed, would be "No," as the current reliable sources indicate 30 direct flight destinations, with one source mentioning 32. However, the more consistent data suggests 30 destinations.
+
+(c) A scenario that results in a No outcome would involve no additional new routes being announced or launched before July 1, 2025. Additionally, if any existing routes are discontinued or temporarily suspended, it could further solidify a No outcome. The current count of 30 destinations would remain unchanged, or the discrepancy in sources would resolve to confirm 30 destinations.
+
+(d) A scenario that results in a Yes outcome would involve the announcement and commencement of at least two new direct flight routes from Erbil before July 1, 2025, bringing the total number of destinations to greater than 31. This could be facilitated by increased demand for travel to and from Erbil, strategic partnerships between airlines, or government initiatives to boost connectivity.
+
+Rationale: Given the current status quo of 30 destinations, the likelihood of reaching greater than 31 destinations by July 1, 2025, depends on the introduction of new routes within a short timeframe. While there are recent developments, such as the new routes to Athens and Baghdad, the overall pace of change in airline route expansion is typically gradual. Therefore, the probability of additional routes being added in the next month is moderate but not guaranteed. Considering these factors, the status quo outcome of "No" is given extra weight.
+
+Final Answer: "Probability: 40%"
+[2025-05-23 04:02:20] INFO: === Forecast Result ===
+[2025-05-23 04:02:20] INFO: URL: https://www.metaculus.com/questions/37836
+[2025-05-23 04:02:20] INFO: Prediction: 0.55
+[2025-05-23 04:02:20] INFO: Reasoning: (a) The time left until the outcome of the question is known is approximately 1 month and 8 days, as the outcome will be determined on or after July 1, 2025.
+
+(b) The status quo outcome, if nothing changed, would be a "No" since the most reliable sources currently indicate 30 destinations, with one source mentioning 32 destinations. However, the more conservative count of 30 is typically used for status quo considerations.
+
+(c) A scenario that results in a No outcome would involve no additional routes being announced or launched before July 1, 2025, and possibly some existing routes being discontinued or delayed. The current count would remain at 30 or potentially drop if discrepancies are resolved unfavorably.
+
+(d) A scenario that results in a Yes outcome would involve the successful launch of the newly announced routes to Baghdad and Basra, along with any other additional routes being announced and launched before July 1, 2025. This would increase the count to greater than 31 destinations.
+
+Rationale: Given the current information, the status quo suggests a "No" outcome, as the count of direct flight destinations is at 30 according to the most reliable sources. The addition of new routes to Baghdad and Basra could potentially push the count to 32 or more, but this depends on the successful launch and counting of these routes. The world tends to change slowly, and without further announcements or developments, the probability of exceeding 31 destinations remains uncertain but possible.
+
+Probability: 55%
+[2025-05-23 04:02:20] INFO: === Forecast Result ===
+[2025-05-23 04:02:20] INFO: URL: https://www.metaculus.com/questions/37836
+[2025-05-23 04:02:20] INFO: Prediction: 0.4
+[2025-05-23 04:02:20] INFO: Reasoning: (a) The time left until the outcome to the question is known is approximately 1 month and 8 days, as today is May 23, 2025, and the outcome will be checked on or after July 1, 2025.
+
+(b) The status quo outcome if nothing changed would be "No," as the current most reliable sources indicate that there are 30 direct flight destinations from Erbil, with one source suggesting 32. However, the discrepancy might be due to counting recently announced routes that haven't started operations yet or differences in how destinations are counted.
+
+(c) A scenario that results in a No outcome: No new direct flight destinations are announced or launched before July 1, 2025, beyond those already planned. Additionally, if any of the current or planned routes are discontinued or delayed, the total number of direct destinations could remain at or below 31.
+
+(d) A scenario that results in a Yes outcome: Additional new direct flight routes are announced and launched before July 1, 2025, beyond those already planned. This could include new routes from existing airlines or new airlines entering the market. Furthermore, all currently planned routes, including those to Baghdad and Basra, are successfully launched and operational by July 1, 2025.
+
+Rationale: Given the current information, the status quo suggests a "No" outcome, with the number of direct flight destinations hovering around 31-32. While there is potential for new routes to be announced and launched, the short timeframe until the outcome is determined makes significant changes less likely. Therefore, the probability of the outcome being "Yes" is somewhat limited, but not impossible, given the dynamic nature of the airline industry.
+
+Probability: 40%
+[2025-05-23 04:02:21] INFO: === Run Summary ===
+[2025-05-23 04:02:21] INFO: Total questions: 1
+[2025-05-23 04:02:21] INFO: Successful research: 1
+[2025-05-23 04:02:21] INFO: Failed research: 0
+[2025-05-23 04:02:21] INFO: Success rate: 100.00%
