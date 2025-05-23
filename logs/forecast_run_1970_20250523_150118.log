@@ -1,0 +1,84 @@
+[2025-05-23 15:01:18] INFO: === Starting new forecast run (Run #1970) ===
+[2025-05-23 15:01:18] INFO: Environment: GitHub Actions
+[2025-05-23 15:01:18] INFO: Repository: agsheves/decis-metaculus-bot1
+[2025-05-23 15:01:18] INFO: Workflow: Forecast on new AI tournament questions
+[2025-05-23 15:01:18] INFO: Commit: c636382b08c32d559bdf923dca5fbaf199094ad5
+[2025-05-23 15:01:18] INFO: === Question 1 ===
+[2025-05-23 15:01:18] INFO: URL: https://www.metaculus.com/questions/37841
+[2025-05-23 15:01:18] INFO: Text: Will Kneecap perform at Glastonbury 2025?
+[2025-05-23 15:01:27] INFO: Research: Perplexity succeeded for https://www.metaculus.com/questions/37841
+[2025-05-23 15:01:31] INFO: === Forecast Result ===
+[2025-05-23 15:01:31] INFO: URL: https://www.metaculus.com/questions/37841
+[2025-05-23 15:01:31] INFO: Prediction: 0.85
+[2025-05-23 15:01:31] INFO: Reasoning: (a) The time left until the outcome to the question is known is approximately one month, as Glastonbury 2025 is scheduled for June 25 to June 29, 2025.
+
+(b) The status quo outcome if nothing changed is that Kneecap will perform at Glastonbury 2025. They are currently confirmed on the official line-up, and there are no reports of cancellation or removal from the festival.
+
+(c) A scenario that results in a No outcome could involve significant public pressure or legal issues leading to the festival organizers deciding to remove Kneecap from the line-up. This could be due to escalating controversies or new incidents that make their performance untenable.
+
+(d) A scenario that results in a Yes outcome is the continuation of the current situation, where Kneecap remains on the official line-up and performs as scheduled at Glastonbury 2025 without any major incidents or cancellations.
+
+Given the current information and the tendency for the status quo to prevail, the probability that Kneecap will perform at Glastonbury 2025 is high.
+
+Probability: 85%
+[2025-05-23 15:01:32] INFO: === Forecast Result ===
+[2025-05-23 15:01:32] INFO: URL: https://www.metaculus.com/questions/37841
+[2025-05-23 15:01:32] INFO: Prediction: 0.85
+[2025-05-23 15:01:32] INFO: Reasoning: (a) The time left until the outcome to the question is known is approximately one month, as Glastonbury 2025 is scheduled to take place from June 25 to June 29, 2025.
+
+(b) The status quo outcome, if nothing changes, is that Kneecap will perform at Glastonbury 2025. They are currently confirmed on the official line-up and there are no reports of cancellation.
+
+(c) A scenario that results in a No outcome could involve significant public pressure or political intervention leading to Kneecap being removed from the line-up. This could be due to escalating controversies or new incidents that make their performance untenable for the festival organizers.
+
+(d) A scenario that results in a Yes outcome is the current trajectory where Kneecap remains on the line-up and performs as scheduled at Glastonbury 2025. This would occur if there are no further controversies or if the festival organizers decide to uphold their decision despite any external pressures.
+
+Given the current information and the tendency for the status quo to prevail, the probability that Kneecap will perform at Glastonbury 2025 is high.
+
+Probability: 85%
+[2025-05-23 15:01:32] INFO: === Forecast Result ===
+[2025-05-23 15:01:32] INFO: URL: https://www.metaculus.com/questions/37841
+[2025-05-23 15:01:32] INFO: Prediction: 0.85
+[2025-05-23 15:01:32] INFO: Reasoning: (a) The time left until the outcome to the question is known is approximately one month, as Glastonbury 2025 is scheduled from June 25 to June 29, 2025.
+
+(b) The status quo outcome, if nothing changed, would be Yes. Kneecap is currently confirmed to perform at Glastonbury 2025 according to multiple official and reputable sources.
+
+(c) A scenario that results in a No outcome could involve significant public pressure leading to the festival organizers deciding to remove Kneecap from the lineup. This could be due to escalating controversies, legal issues, or a change in the festival's policies regarding performers with controversial backgrounds.
+
+(d) A scenario that results in a Yes outcome would be the festival proceeding as planned with Kneecap performing without any last-minute changes or cancellations. This would involve the band maintaining their current status on the lineup and fulfilling their scheduled performance.
+
+Given the current information and the tendency for the status quo to prevail, it is reasonable to assign a high probability to the Yes outcome. However, considering the potential for controversy to influence decisions, a small probability should be reserved for a No outcome.
+
+Final Answer: "Probability: 85%"
+[2025-05-23 15:01:32] INFO: === Forecast Result ===
+[2025-05-23 15:01:32] INFO: URL: https://www.metaculus.com/questions/37841
+[2025-05-23 15:01:32] INFO: Prediction: 0.85
+[2025-05-23 15:01:32] INFO: Reasoning: (a) The time left until the outcome to the question is known is approximately one month, as Glastonbury 2025 is scheduled to take place from June 25 to June 29, 2025.
+
+(b) The status quo outcome, if nothing changes, is that Kneecap will perform at Glastonbury 2025. They are currently listed as part of the official line-up, and there are no reports of cancellation or removal from the festival.
+
+(c) A scenario that results in a No outcome could involve significant public pressure or political intervention leading to the festival organizers deciding to remove Kneecap from the line-up. This could be due to escalating controversies, such as further inflammatory statements or actions by the band that attract widespread condemnation and concerns over safety or appropriateness.
+
+(d) A scenario that results in a Yes outcome involves the current situation remaining unchanged, with Kneecap performing as planned at Glastonbury 2025. This would occur if the controversies do not escalate further, and the festival organizers decide to proceed with the existing line-up despite any calls for removal.
+
+Given the current status and the fact that Kneecap is officially listed to perform, the probability of them performing as planned is high. The status quo strongly supports a Yes outcome, and changes leading to a No outcome would require significant developments that are not currently evident.
+
+Probability: 85%
+[2025-05-23 15:01:36] INFO: === Forecast Result ===
+[2025-05-23 15:01:36] INFO: URL: https://www.metaculus.com/questions/37841
+[2025-05-23 15:01:36] INFO: Prediction: 0.85
+[2025-05-23 15:01:36] INFO: Reasoning: (a) The time left until the outcome to the question is known is approximately one month, as Glastonbury 2025 is scheduled to take place from June 25 to June 29, 2025.
+
+(b) The status quo outcome, if nothing changes, is that Kneecap will perform at Glastonbury 2025. This is based on their current official listing as performers and the absence of any reports indicating their removal or withdrawal from the line-up.
+
+(c) A scenario that results in a No outcome could involve significant public or political pressure leading to the festival organizers deciding to remove Kneecap from the line-up. This could be due to escalating controversies or legal issues related to their past statements or actions, particularly if there is a strong backlash from influential groups or authorities.
+
+(d) A scenario that results in a Yes outcome is the continuation of the current situation, where Kneecap remains on the official line-up and performs as scheduled. This would occur if there are no significant controversies or pressures that lead to their removal, and the festival proceeds as planned with Kneecap performing.
+
+Given the current information and the tendency for the status quo to persist, it is reasonable to assign a high probability to the Yes outcome.
+
+Probability: 85%
+[2025-05-23 15:01:36] INFO: === Run Summary ===
+[2025-05-23 15:01:36] INFO: Total questions: 1
+[2025-05-23 15:01:36] INFO: Successful research: 1
+[2025-05-23 15:01:36] INFO: Failed research: 0
+[2025-05-23 15:01:36] INFO: Success rate: 100.00%
