@@ -1,0 +1,84 @@
+[2025-05-26 11:01:12] INFO: === Starting new forecast run (Run #2102) ===
+[2025-05-26 11:01:12] INFO: Environment: GitHub Actions
+[2025-05-26 11:01:12] INFO: Repository: agsheves/decis-metaculus-bot1
+[2025-05-26 11:01:12] INFO: Workflow: Forecast on new AI tournament questions
+[2025-05-26 11:01:12] INFO: Commit: dae8b4d1963e88c1ad9d9c3dd6d4b11284723a10
+[2025-05-26 11:01:12] INFO: === Question 1 ===
+[2025-05-26 11:01:12] INFO: URL: https://www.metaculus.com/questions/38056
+[2025-05-26 11:01:12] INFO: Text: Will Johnny Walker defeat Azamat Murzakanov at UFC 316?
+[2025-05-26 11:01:22] INFO: Research: Perplexity succeeded for https://www.metaculus.com/questions/38056
+[2025-05-26 11:01:26] INFO: === Forecast Result ===
+[2025-05-26 11:01:26] INFO: URL: https://www.metaculus.com/questions/38056
+[2025-05-26 11:01:26] INFO: Prediction: 0.05
+[2025-05-26 11:01:26] INFO: Reasoning: (a) The time left until the outcome to the question is known is approximately 12 days, as UFC 316 is scheduled for June 7, 2025.
+
+(b) The status quo outcome, if nothing changes, is that the question resolves as "No" because Johnny Walker is not scheduled to fight Azamat Murzakanov at UFC 316. Instead, Murzakanov is set to face Brendson Ribeiro.
+
+(c) A scenario that results in a No outcome is if UFC 316 proceeds as currently planned, with Azamat Murzakanov fighting Brendson Ribeiro and Johnny Walker not participating in the event. This scenario aligns with the current information and the status quo.
+
+(d) A scenario that results in a Yes outcome would require a significant change, such as Johnny Walker being reinstated to fight Azamat Murzakanov at UFC 316. This could happen if there are last-minute changes to the fight card, such as an injury to Brendson Ribeiro or a decision by the UFC to rebook the original fight.
+
+Given the current information and the tendency for the status quo to prevail, the probability of Johnny Walker defeating Azamat Murzakanov at UFC 316 is very low.
+
+Probability: 5%
+[2025-05-26 11:01:26] INFO: === Forecast Result ===
+[2025-05-26 11:01:26] INFO: URL: https://www.metaculus.com/questions/38056
+[2025-05-26 11:01:26] INFO: Prediction: 0.95
+[2025-05-26 11:01:26] INFO: Reasoning: (a) The time left until the outcome to the question is known is approximately 12 days, as UFC 316 is scheduled for June 7, 2025.
+
+(b) The status quo outcome, if nothing changes, is that the question resolves as "No" because Johnny Walker is not scheduled to fight Azamat Murzakanov at UFC 316. Instead, Murzakanov is set to fight Brendson Ribeiro.
+
+(c) A scenario that results in a No outcome is the current status quo: Johnny Walker does not fight Azamat Murzakanov at UFC 316, and the event proceeds with Murzakanov fighting Brendson Ribeiro as planned.
+
+(d) A scenario that results in a Yes outcome would require a significant change, such as Brendson Ribeiro withdrawing from the fight and Johnny Walker stepping in to replace him at the last minute, leading to Walker fighting and defeating Murzakanov at UFC 316.
+
+Given the current information and the proximity to the event date, the likelihood of such a change occurring is low. The status quo is a strong indicator of the outcome, as changes to fight cards this close to the event are uncommon unless due to unforeseen circumstances.
+
+Probability: 95%
+[2025-05-26 11:01:27] INFO: === Forecast Result ===
+[2025-05-26 11:01:27] INFO: URL: https://www.metaculus.com/questions/38056
+[2025-05-26 11:01:27] INFO: Prediction: 0.05
+[2025-05-26 11:01:27] INFO: Reasoning: (a) The time left until the outcome to the question is known is approximately 12 days, as UFC 316 is scheduled for June 7, 2025.
+
+(b) The status quo outcome, if nothing changes, is that the question resolves as "No" because Johnny Walker is not scheduled to fight Azamat Murzakanov at UFC 316. Instead, Murzakanov is set to face Brendson Ribeiro.
+
+(c) A scenario that results in a No outcome is the current situation where Johnny Walker does not participate in UFC 316, and Azamat Murzakanov fights Brendson Ribeiro as planned. This scenario is the most likely given the current information and the confirmation of the change in opponents.
+
+(d) A scenario that results in a Yes outcome would require a significant change, such as Johnny Walker being reinstated to fight Azamat Murzakanov at UFC 316. This could happen if there were unforeseen circumstances, such as an injury to Brendson Ribeiro or a last-minute decision by the UFC to reinstate Walker for the fight. However, this scenario is unlikely given the current information and the proximity to the event date.
+
+Given the current status and the information provided, the probability of Johnny Walker defeating Azamat Murzakanov at UFC 316 is very low. The status quo strongly suggests a No outcome, and the world tends to change slowly, making last-minute changes less likely.
+
+Probability: 5%
+[2025-05-26 11:01:27] INFO: === Forecast Result ===
+[2025-05-26 11:01:27] INFO: URL: https://www.metaculus.com/questions/38056
+[2025-05-26 11:01:27] INFO: Prediction: 0.05
+[2025-05-26 11:01:27] INFO: Reasoning: (a) The time left until the outcome to the question is known is approximately 12 days, as UFC 316 is scheduled for June 7, 2025, and today is May 26, 2025.
+
+(b) The status quo outcome, based on the current information, is that the question resolves as "No" because Johnny Walker is not scheduled to fight Azamat Murzakanov at UFC 316. Instead, Murzakanov is set to fight Brendson Ribeiro.
+
+(c) A scenario that results in a No outcome is if the current fight card remains unchanged, and Johnny Walker does not fight Azamat Murzakanov at UFC 316. This is the most likely scenario given the current information.
+
+(d) A scenario that results in a Yes outcome would involve a significant change in the fight card, such as Brendson Ribeiro withdrawing from the fight, and Johnny Walker being reinserted as Murzakanov's opponent at UFC 316. This would require last-minute changes and approvals from the UFC, which are unlikely given the short timeframe.
+
+Given that the fight card has already been adjusted and Johnny Walker is not currently scheduled to fight Azamat Murzakanov, the probability of the fight occurring as originally planned is low. The status quo strongly suggests a "No" outcome.
+
+Probability: 5%
+[2025-05-26 11:01:28] INFO: === Forecast Result ===
+[2025-05-26 11:01:28] INFO: URL: https://www.metaculus.com/questions/38056
+[2025-05-26 11:01:28] INFO: Prediction: 0.05
+[2025-05-26 11:01:28] INFO: Reasoning: (a) The time left until the outcome to the question is known is approximately 12 days, as UFC 316 is scheduled for June 7, 2025.
+
+(b) The status quo outcome, if nothing changes, is that the question resolves as "No" because Johnny Walker is not scheduled to fight Azamat Murzakanov at UFC 316. Instead, Murzakanov is set to fight Brendson Ribeiro.
+
+(c) A scenario that results in a No outcome is the current situation where Johnny Walker does not fight Azamat Murzakanov at UFC 316, and the event proceeds with Murzakanov facing Brendson Ribeiro as planned.
+
+(d) A scenario that results in a Yes outcome would require a significant change, such as Brendson Ribeiro withdrawing from the fight and Johnny Walker stepping in as a last-minute replacement to fight Azamat Murzakanov at UFC 316. This scenario is unlikely given the current information.
+
+Given the current status and the fact that changes to fight cards, especially this close to the event, are relatively rare, the status quo outcome is heavily weighted. The probability of Johnny Walker fighting Azamat Murzakanov at UFC 316 is very low.
+
+Probability: 5%
+[2025-05-26 11:01:28] INFO: === Run Summary ===
+[2025-05-26 11:01:28] INFO: Total questions: 1
+[2025-05-26 11:01:28] INFO: Successful research: 1
+[2025-05-26 11:01:28] INFO: Failed research: 0
+[2025-05-26 11:01:28] INFO: Success rate: 100.00%
