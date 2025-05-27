@@ -1,0 +1,102 @@
+[2025-05-27 22:01:13] INFO: === Starting new forecast run (Run #2171) ===
+[2025-05-27 22:01:13] INFO: Environment: GitHub Actions
+[2025-05-27 22:01:13] INFO: Repository: agsheves/decis-metaculus-bot1
+[2025-05-27 22:01:13] INFO: Workflow: Forecast on new AI tournament questions
+[2025-05-27 22:01:13] INFO: Commit: 87d291c04a36d00eb0c20bfe91d820657f33c969
+[2025-05-27 22:01:13] INFO: === Question 1 ===
+[2025-05-27 22:01:13] INFO: URL: https://www.metaculus.com/questions/38072
+[2025-05-27 22:01:13] INFO: Text: How many Chinese universities will be in the top 20 of the QS World University Rankings 2026?
+[2025-05-27 22:01:22] INFO: Research: Perplexity succeeded for https://www.metaculus.com/questions/38072
+[2025-05-27 22:01:28] INFO: === Forecast Result ===
+[2025-05-27 22:01:28] INFO: URL: https://www.metaculus.com/questions/38072
+[2025-05-27 22:01:28] INFO: Prediction: predicted_options=[PredictedOption(option_name='Zero or One', probability=0.1), PredictedOption(option_name='Two', probability=0.7), PredictedOption(option_name='Three or more', probability=0.2)]
+[2025-05-27 22:01:28] INFO: Reasoning: (a) The time left until the outcome to the question is known is approximately one year, as the QS World University Rankings 2026 are expected to be released in June 2025.
+
+(b) The status quo outcome, if nothing changed, would be that two mainland Chinese universities, Peking University and Tsinghua University, would be in the top 20 of the QS World University Rankings 2026. This is based on the 2025 rankings where these two universities are already in the top 20.
+
+(c) A scenario that results in an unexpected outcome could involve significant changes in the global academic landscape or QS ranking methodology. For instance, if there were a major breakthrough in research or a substantial increase in funding for Chinese universities, it could propel additional mainland Chinese universities into the top 20. Alternatively, changes in the QS ranking criteria that favor certain strengths of Chinese universities could also lead to more of them entering the top 20. Conversely, geopolitical tensions or policy changes affecting international collaboration could negatively impact the rankings of existing top Chinese universities, reducing their presence in the top 20.
+
+Given the current information and trends, the most likely outcome is that two mainland Chinese universities will remain in the top 20. However, the possibility of changes in rankings or methodology means that other outcomes cannot be entirely ruled out.
+
+Final probabilities for the options are:
+Option_Zero_or_One: 10%
+Option_Two: 70%
+Option_Three_or_more: 20%
+[2025-05-27 22:01:29] INFO: === Forecast Result ===
+[2025-05-27 22:01:29] INFO: URL: https://www.metaculus.com/questions/38072
+[2025-05-27 22:01:29] INFO: Prediction: predicted_options=[PredictedOption(option_name='Zero or One', probability=0.3333333333333333), PredictedOption(option_name='Two', probability=0.3333333333333333), PredictedOption(option_name='Three or more', probability=0.3333333333333333)]
+[2025-05-27 22:01:29] INFO: Reasoning: (a) The time left until the outcome to the question is known is approximately one year, as the QS World University Rankings 2026 are expected to be released in June 2025.
+
+(b) The status quo outcome, if nothing changed, would be that two mainland Chinese universities (Peking University and Tsinghua University) remain in the top 20 of the QS World University Rankings 2026. This is based on the current rankings for 2025, where both universities are already in the top 20.
+
+(c) A scenario that results in an unexpected outcome could involve significant changes in the global academic landscape or QS ranking methodology. For example, if a major Chinese university, such as Fudan University, makes substantial improvements in research output, international collaboration, or faculty quality, it could potentially break into the top 20. Additionally, geopolitical shifts or changes in funding policies could impact the rankings. Conversely, if there were a significant decline in the performance or reputation of Peking University or Tsinghua University, they might fall out of the top 20.
+
+Given these considerations, I will assign probabilities to each option as follows:
+
+- **Zero or One**: 10% probability. While unlikely given current trends, there is a small chance that both Peking University and Tsinghua University could drop out of the top 20 due to unforeseen circumstances.
+  
+- **Two**: 70% probability. This is the most likely outcome, as both Peking University and Tsinghua University are currently in the top 20, and there is no strong indication of changes that would significantly alter their standings.
+
+- **Three or more**: 20% probability. While less likely, there is a possibility that another mainland Chinese university could enter the top 20, especially if there are improvements in academic performance or changes in ranking criteria that favor Chinese institutions.
+[2025-05-27 22:01:29] INFO: === Forecast Result ===
+[2025-05-27 22:01:29] INFO: URL: https://www.metaculus.com/questions/38072
+[2025-05-27 22:01:29] INFO: Prediction: predicted_options=[PredictedOption(option_name='Zero or One', probability=0.1), PredictedOption(option_name='Two', probability=0.7), PredictedOption(option_name='Three or more', probability=0.2)]
+[2025-05-27 22:01:29] INFO: Reasoning: (a) The time left until the outcome to the question is known is approximately one year, as the QS World University Rankings 2026 are expected to be released in June 2025.
+
+(b) The status quo outcome if nothing changed is that there would be two mainland Chinese universities in the top 20 of the QS World University Rankings 2026. This is based on the current 2025 rankings, where Peking University is ranked 14th and Tsinghua University is ranked 20th.
+
+(c) A scenario that results in an unexpected outcome could involve significant developments in the Chinese higher education system or international perceptions of Chinese universities. For example, a major breakthrough in research or a substantial increase in international collaboration and funding could propel another mainland Chinese university, such as Fudan University, into the top 20. Alternatively, geopolitical tensions or changes in the QS ranking methodology could negatively impact the rankings of existing top 20 Chinese universities, reducing their presence.
+
+Given these considerations, I will assign probabilities to each option as follows:
+
+- **Zero or One**: 10% probability. While unlikely given the current rankings, it's possible that changes in methodology or geopolitical factors could negatively impact the rankings of Chinese universities.
+
+- **Two**: 70% probability. This is the status quo outcome, with Peking University and Tsinghua University currently in the top 20. The world changes slowly, and there are no strong indicators of imminent changes that would alter this count.
+
+- **Three or more**: 20% probability. While less likely, there is a possibility that another mainland Chinese university could break into the top 20 due to improvements in their academic reputation, research output, or other factors.
+
+Final probabilities:
+Option_Zero_or_One: 10%
+Option_Two: 70%
+Option_Three_or_more: 20%
+[2025-05-27 22:01:32] INFO: === Forecast Result ===
+[2025-05-27 22:01:32] INFO: URL: https://www.metaculus.com/questions/38072
+[2025-05-27 22:01:32] INFO: Prediction: predicted_options=[PredictedOption(option_name='Zero or One', probability=0.1), PredictedOption(option_name='Two', probability=0.7), PredictedOption(option_name='Three or more', probability=0.2)]
+[2025-05-27 22:01:32] INFO: Reasoning: (a) The time left until the outcome to the question is known is approximately 13 months, as the QS World University Rankings 2026 are expected to be released in June 2025.
+
+(b) The status quo outcome if nothing changed would be that two mainland Chinese universities, Peking University and Tsinghua University, remain in the top 20 of the QS World University Rankings 2026. This is based on the current rankings for 2025, where these two universities are ranked 14th and 20th, respectively.
+
+(c) A scenario that results in an unexpected outcome could involve significant changes in the global academic landscape or in the methodologies used by QS for their rankings. For instance, if another mainland Chinese university, such as Fudan University, makes substantial improvements in research output, international collaboration, or academic reputation, it could break into the top 20. Additionally, geopolitical factors or increased investment in higher education by the Chinese government could accelerate the rise of other universities. Conversely, a significant decline in the performance of either Peking University or Tsinghua University could result in them dropping out of the top 20, reducing the count to one or even zero.
+
+Given the current information and trends, it is reasonable to assign the following probabilities:
+
+Option_Zero_or_One: Probability_Zero_or_One = 10%  
+Option_Two: Probability_Two = 70%  
+Option_Three_or_more: Probability_Three_or_more = 20%  
+
+These probabilities reflect the likelihood of the status quo being maintained, while also accounting for potential unexpected developments that could alter the rankings.
+[2025-05-27 22:01:32] INFO: === Forecast Result ===
+[2025-05-27 22:01:32] INFO: URL: https://www.metaculus.com/questions/38072
+[2025-05-27 22:01:32] INFO: Prediction: predicted_options=[PredictedOption(option_name='Zero or One', probability=0.1), PredictedOption(option_name='Two', probability=0.7), PredictedOption(option_name='Three or more', probability=0.2)]
+[2025-05-27 22:01:32] INFO: Reasoning: (a) The time left until the outcome to the question is known is approximately one year, as the QS World University Rankings 2026 are expected to be released in June 2025.
+
+(b) The status quo outcome, if nothing changed, would be that two mainland Chinese universities, Peking University and Tsinghua University, remain in the top 20 of the QS World University Rankings 2026. This is based on the current 2025 rankings where these two universities are already in the top 20.
+
+(c) A scenario that results in an unexpected outcome could involve significant academic or research breakthroughs, increased international collaboration, or substantial government investment in higher education that propels additional mainland Chinese universities into the top 20. For example, if Fudan University or another prominent institution makes a notable leap in research output or international reputation, it could join Peking and Tsinghua in the top 20. Additionally, changes in the QS ranking methodology that favor certain metrics where Chinese universities excel could also lead to more universities entering the top 20.
+
+Rationale:
+1. **Status Quo Weight**: Given that the world changes slowly most of the time, the status quo outcome of two mainland Chinese universities in the top 20 is the most likely scenario. Peking University and Tsinghua University have consistently been strong performers, and there is no immediate evidence suggesting a dramatic shift in their rankings.
+
+2. **Unexpected Outcomes**: While the status quo is the most probable, it is important to account for potential changes. The Chinese government has been investing heavily in higher education and research, which could lead to improvements in rankings. Additionally, unforeseen global events or shifts in ranking criteria could impact the outcomes.
+
+3. **Moderate Probability for All Options**: While the most likely outcome is two universities, it is prudent to leave some probability for zero or one, as well as three or more, to account for unexpected developments or changes in the ranking landscape.
+
+Final Probabilities:
+- Zero or One: 10%
+- Two: 70%
+- Three or more: 20%
+[2025-05-27 22:01:33] INFO: === Run Summary ===
+[2025-05-27 22:01:33] INFO: Total questions: 1
+[2025-05-27 22:01:33] INFO: Successful research: 1
+[2025-05-27 22:01:33] INFO: Failed research: 0
+[2025-05-27 22:01:33] INFO: Success rate: 100.00%
