@@ -1,0 +1,84 @@
+[2025-05-27 08:37:36] INFO: === Starting new forecast run (Run #2144) ===
+[2025-05-27 08:37:36] INFO: Environment: GitHub Actions
+[2025-05-27 08:37:36] INFO: Repository: agsheves/decis-metaculus-bot1
+[2025-05-27 08:37:36] INFO: Workflow: Forecast on new AI tournament questions
+[2025-05-27 08:37:36] INFO: Commit: f18c7cf41ad6ceac9139768c5de7e1da348a1830
+[2025-05-27 08:37:36] INFO: === Question 1 ===
+[2025-05-27 08:37:36] INFO: URL: https://www.metaculus.com/questions/38066
+[2025-05-27 08:37:36] INFO: Text: Will Sam Altman and Elon Musk be on the stage together at YC AI Startup School?
+[2025-05-27 08:37:48] INFO: Research: Perplexity succeeded for https://www.metaculus.com/questions/38066
+[2025-05-27 08:37:53] INFO: === Forecast Result ===
+[2025-05-27 08:37:53] INFO: URL: https://www.metaculus.com/questions/38066
+[2025-05-27 08:37:53] INFO: Prediction: 0.25
+[2025-05-27 08:37:53] INFO: Reasoning: (a) The time left until the outcome to the question is known is approximately 20 days, as the event takes place on June 16-17, 2025, and the question resolves based on evidence available by July 1, 2025.
+
+(b) The status quo outcome if nothing changed is that the question would resolve as No, since there is currently no evidence confirming that Sam Altman and Elon Musk will appear on stage together.
+
+(c) A scenario that results in a No outcome is if both Sam Altman and Elon Musk speak at the event separately, with no joint sessions or panels, and no further announcements or changes to the schedule occur before or during the event.
+
+(d) A scenario that results in a Yes outcome is if, before or during the event, Y Combinator announces a surprise joint session, panel, or discussion involving both Sam Altman and Elon Musk, and they appear on stage together during the event dates.
+
+Rationale: Given the current information, there is no indication of a planned joint appearance. The status quo suggests a No outcome, as no evidence supports a joint session. However, events can sometimes include surprise elements or last-minute changes, especially with high-profile speakers. Despite this possibility, the lack of current evidence and announcements leans towards a No outcome. 
+
+Final Answer: Probability: 25%
+[2025-05-27 08:37:54] INFO: === Forecast Result ===
+[2025-05-27 08:37:54] INFO: URL: https://www.metaculus.com/questions/38066
+[2025-05-27 08:37:54] INFO: Prediction: 0.25
+[2025-05-27 08:37:54] INFO: Reasoning: (a) The time left until the outcome to the question is known is approximately 20 days, as the event takes place on June 16-17, 2025, and today is May 27, 2025.
+
+(b) The status quo outcome, if nothing changes, is that the question will resolve as No. This is because there is currently no evidence or announcement indicating that Sam Altman and Elon Musk will appear on stage together.
+
+(c) A scenario that results in a No outcome is if both Sam Altman and Elon Musk give separate talks or participate in different panels throughout the event without ever sharing the stage. This would align with the current lack of evidence for a joint appearance.
+
+(d) A scenario that results in a Yes outcome is if Y Combinator announces a joint session, panel, or discussion involving both Sam Altman and Elon Musk before the event, or if such an appearance occurs spontaneously during the event itself.
+
+Rationale: Given the current information, the status quo suggests a No outcome, as there is no evidence of a planned joint appearance. While it is possible for new information to emerge, forecasters often rely on the status quo, as changes in plans or announcements are not guaranteed. Therefore, the probability of a Yes outcome is lower unless new evidence surfaces.
+
+Final answer: "Probability: 25%"
+[2025-05-27 08:37:54] INFO: === Forecast Result ===
+[2025-05-27 08:37:54] INFO: URL: https://www.metaculus.com/questions/38066
+[2025-05-27 08:37:54] INFO: Prediction: 0.2
+[2025-05-27 08:37:54] INFO: Reasoning: (a) The time left until the outcome to the question is known is approximately 20 days, as the YC AI Startup School event will take place on June 16-17, 2025, and the resolution deadline is July 1, 2025.
+
+(b) The status quo outcome, if nothing changed, would be a No. This is because there is currently no evidence or announcement indicating that Sam Altman and Elon Musk will share the stage together at the event.
+
+(c) A scenario that results in a No outcome is one where both Sam Altman and Elon Musk speak at the event, but their sessions are scheduled separately, and no joint appearance is organized or announced before or during the event.
+
+(d) A scenario that results in a Yes outcome is one where, prior to or during the event, Y Combinator announces a surprise joint session, panel, or discussion involving both Sam Altman and Elon Musk, and they appear on stage together within the event's timeframe.
+
+Rationale: Given the current information, the likelihood of a joint appearance is low, as there is no evidence or announcement supporting it. The status quo suggests a No outcome, and while last-minute changes or surprise announcements are possible, they are not the norm. Therefore, the probability of a Yes outcome should be considered lower, with more weight given to the current status quo.
+
+Final Answer: "Probability: 20%"
+[2025-05-27 08:37:54] INFO: === Forecast Result ===
+[2025-05-27 08:37:54] INFO: URL: https://www.metaculus.com/questions/38066
+[2025-05-27 08:37:54] INFO: Prediction: 0.2
+[2025-05-27 08:37:54] INFO: Reasoning: (a) The time left until the outcome to the question is known is approximately 20 days, as the event is scheduled for June 16-17, 2025, and today is May 27, 2025.
+
+(b) The status quo outcome if nothing changed is No, as there is currently no evidence or announcement indicating that Sam Altman and Elon Musk will appear on stage together.
+
+(c) A scenario that results in a No outcome would be if both Sam Altman and Elon Musk give separate talks or participate in different sessions without any overlap or joint appearance on stage during the event.
+
+(d) A scenario that results in a Yes outcome would be if Y Combinator announces a last-minute panel or joint discussion involving both Sam Altman and Elon Musk, where they share the stage to discuss AI-related topics.
+
+Rationale: Given the current information, there is no indication of a planned joint appearance between Sam Altman and Elon Musk. The status quo suggests that they will likely have separate speaking engagements. However, the possibility of a last-minute change or announcement cannot be entirely ruled out, especially given the dynamic nature of such events. Nonetheless, good forecasting practice emphasizes the status quo, as changes of this nature are relatively uncommon without prior indication.
+
+Probability: 20%
+[2025-05-27 08:37:56] INFO: === Forecast Result ===
+[2025-05-27 08:37:56] INFO: URL: https://www.metaculus.com/questions/38066
+[2025-05-27 08:37:56] INFO: Prediction: 0.2
+[2025-05-27 08:37:56] INFO: Reasoning: (a) The time left until the outcome to the question is known is approximately 20 days, as the event takes place on June 16-17, 2025, and today is May 27, 2025.
+
+(b) The status quo outcome if nothing changed would be a No, as there is currently no evidence or announcement indicating that Sam Altman and Elon Musk will share the stage together at the YC AI Startup School.
+
+(c) A scenario that results in a No outcome would be if both Sam Altman and Elon Musk deliver their speeches or participate in panels separately, without any overlap in their stage appearances during the event. This could occur if the event organizers decide to schedule their sessions at different times or if logistical or personal reasons prevent a joint appearance.
+
+(d) A scenario that results in a Yes outcome would be if a last-minute announcement or update to the event schedule reveals a joint session, panel discussion, or fireside chat featuring both Sam Altman and Elon Musk. This could occur if the event organizers see value in having both influential figures discuss AI-related topics together, or if there is a spontaneous decision to bring them on stage simultaneously during the event.
+
+Rationale: Given the current information, the status quo suggests that a joint appearance is unlikely, as there is no evidence or indication of such a plan. However, the possibility of a last-minute change or announcement cannot be entirely ruled out, especially in dynamic event settings. Nonetheless, forecasters often weigh the status quo more heavily, as changes are less common without prior indications.
+
+Final Answer: "Probability: 20%"
+[2025-05-27 08:37:57] INFO: === Run Summary ===
+[2025-05-27 08:37:57] INFO: Total questions: 1
+[2025-05-27 08:37:57] INFO: Successful research: 1
+[2025-05-27 08:37:57] INFO: Failed research: 0
+[2025-05-27 08:37:57] INFO: Success rate: 100.00%
