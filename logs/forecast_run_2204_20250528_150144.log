@@ -1,0 +1,85 @@
+[2025-05-28 15:01:44] INFO: === Starting new forecast run (Run #2204) ===
+[2025-05-28 15:01:44] INFO: Environment: GitHub Actions
+[2025-05-28 15:01:44] INFO: Repository: agsheves/decis-metaculus-bot1
+[2025-05-28 15:01:44] INFO: Workflow: Forecast on new AI tournament questions
+[2025-05-28 15:01:44] INFO: Commit: a570246c9faa04bc2c0a4c65d2e4a737d8de5061
+[2025-05-28 15:01:44] INFO: === Question 1 ===
+[2025-05-28 15:01:44] INFO: URL: https://www.metaculus.com/questions/38080
+[2025-05-28 15:01:44] INFO: Text: Will Harvard University have a Student and Exchange Visitor Program certification on July 1, 2025?
+[2025-05-28 15:01:54] INFO: Research: Perplexity succeeded for https://www.metaculus.com/questions/38080
+[2025-05-28 15:02:02] INFO: === Forecast Result ===
+[2025-05-28 15:02:02] INFO: URL: https://www.metaculus.com/questions/38080
+[2025-05-28 15:02:02] INFO: Prediction: 0.75
+[2025-05-28 15:02:02] INFO: Reasoning: (a) The time left until the outcome to the question is known is approximately one month, as the question's outcome will be determined on July 1, 2025.
+
+(b) The status quo outcome, if nothing changed, would be that Harvard University retains its SEVP certification due to the temporary restraining order granted by the court. This allows Harvard to continue enrolling international students and scholars while the legal proceedings are ongoing.
+
+(c) A scenario that results in a No outcome could involve the court lifting the temporary restraining order before July 1, 2025, or ruling against Harvard in the ongoing legal proceedings. This would result in the revocation of Harvard's SEVP certification, preventing the university from enrolling international students.
+
+(d) A scenario that results in a Yes outcome would involve the court maintaining the temporary restraining order through July 1, 2025, or ruling in favor of Harvard, thereby ensuring that the university retains its SEVP certification and can continue enrolling international students.
+
+Rationale: Given the current status quo, where Harvard's SEVP certification is temporarily reinstated by the court, and considering the relatively short time frame until July 1, 2025, it is more likely that the temporary restraining order will remain in place. Courts often maintain the status quo during ongoing legal proceedings, especially in complex cases involving significant institutional and legal implications. Additionally, Harvard's legal team is likely to be well-prepared to argue for the continuation of the restraining order, given the high stakes involved for the university and its international students.
+
+Final Answer: Probability: 75%
+[2025-05-28 15:02:07] INFO: === Forecast Result ===
+[2025-05-28 15:02:07] INFO: URL: https://www.metaculus.com/questions/38080
+[2025-05-28 15:02:07] INFO: Prediction: 0.75
+[2025-05-28 15:02:07] INFO: Reasoning: (a) The time left until the outcome to the question is known is approximately one month, as the question will be resolved on July 1, 2025.
+
+(b) The status quo outcome if nothing changed is that Harvard University retains its SEVP certification due to the temporary restraining order granted by the court, allowing it to continue enrolling international students and scholars while the case proceeds through the legal system.
+
+(c) A brief description of a scenario that results in a No outcome: The court could rule against Harvard before July 1, 2025, resulting in the revocation of the temporary restraining order. This would mean that Harvard loses its SEVP certification and is unable to enroll international students for the 2025-2026 academic year. Alternatively, the government could find a legal avenue to enforce the revocation despite the ongoing legal proceedings.
+
+(d) A brief description of a scenario that results in a Yes outcome: The court could rule in favor of Harvard, either permanently reinstating the SEVP certification or extending the temporary restraining order beyond July 1, 2025. This would allow Harvard to maintain its ability to enroll international students and scholars, resolving the question as Yes.
+
+Rationale: Given the current status quo, where Harvard has a temporary restraining order allowing it to continue enrolling international students, and the relatively short time frame until July 1, 2025, it is likely that the temporary measure will remain in place unless there is a rapid legal resolution. Courts often take time to reach a final decision, and the temporary restraining order suggests that the court found some merit in Harvard's position. Therefore, the status quo outcome, where Harvard retains its SEVP certification on July 1, 2025, is a strong possibility.
+
+Final Answer: "Probability: 75%"
+[2025-05-28 15:02:07] INFO: === Forecast Result ===
+[2025-05-28 15:02:07] INFO: URL: https://www.metaculus.com/questions/38080
+[2025-05-28 15:02:07] INFO: Prediction: 0.75
+[2025-05-28 15:02:07] INFO: Reasoning: (a) The time left until the outcome to the question is known is approximately one month, as the question will be resolved on July 1, 2025.
+
+(b) The status quo outcome, if nothing changed, is that Harvard University maintains its SEVP certification due to the temporary restraining order (TRO) granted by the court, which allows the university to continue enrolling international students while the legal proceedings are ongoing.
+
+(c) A scenario that results in a No outcome could involve the court ruling against Harvard before July 1, 2025, leading to the revocation of the TRO and the reinstatement of the DHS's decision to revoke Harvard's SEVP certification. This could occur if the court finds that the DHS's actions were justified based on compliance issues or other legal grounds.
+
+(d) A scenario that results in a Yes outcome involves the court upholding the TRO or issuing a permanent injunction against the DHS's revocation of Harvard's SEVP certification. This could happen if the court finds that the DHS's actions were politically motivated or unjustified, thereby allowing Harvard to maintain its certification and continue enrolling international students.
+
+Rationale: Given the current status quo, where Harvard's SEVP certification is temporarily reinstated due to the TRO, the likelihood of a Yes outcome is relatively high. Courts often take time to reach a final decision, and the temporary measure suggests that the court sees potential merit in Harvard's case. Additionally, the legal process may not conclude by July 1, 2025, meaning the TRO could remain in effect, allowing Harvard to maintain its certification. However, there remains some uncertainty due to the political nature of the situation and the possibility of a swift legal resolution against Harvard.
+
+Final Answer: Probability: 75%
+[2025-05-28 15:02:07] INFO: === Forecast Result ===
+[2025-05-28 15:02:07] INFO: URL: https://www.metaculus.com/questions/38080
+[2025-05-28 15:02:07] INFO: Prediction: 0.75
+[2025-05-28 15:02:07] INFO: Reasoning: (a) The time left until the outcome to the question is known is approximately one month, as the outcome will be determined on July 1, 2025.
+
+(b) The status quo outcome, if nothing changed, is that Harvard University retains its SEVP certification due to the temporary restraining order granted by the court. This allows Harvard to continue enrolling international students while the legal proceedings are ongoing.
+
+(c) A scenario that results in a No outcome could involve the court lifting the temporary restraining order before July 1, 2025, thereby reinstating the DHS's revocation of Harvard's SEVP certification. This could occur if the court finds merit in the DHS's allegations or if there is a legal or procedural issue with Harvard's case.
+
+(d) A scenario that results in a Yes outcome involves the court maintaining the temporary restraining order or issuing a favorable ruling for Harvard before July 1, 2025. This would allow Harvard to retain its SEVP certification and continue enrolling international students. Alternatively, a settlement or agreement between Harvard and the DHS could also result in the restoration of the certification.
+
+Rationale: Given the current status quo, where Harvard has its SEVP certification reinstated through a court order, and considering the relatively short time frame until July 1, 2025, it is likely that the temporary restraining order will remain in place. Legal proceedings can be lengthy, and it is plausible that the case will not be resolved before the deadline, allowing the status quo to persist. Additionally, the court's initial decision to grant the temporary restraining order suggests that Harvard's arguments have some merit, which could further support a favorable outcome for the university.
+
+Final Answer: Probability: 75%
+[2025-05-28 15:02:09] INFO: === Forecast Result ===
+[2025-05-28 15:02:09] INFO: URL: https://www.metaculus.com/questions/38080
+[2025-05-28 15:02:09] INFO: Prediction: 0.75
+[2025-05-28 15:02:09] INFO: Reasoning: (a) The time left until the outcome to the question is known is approximately one month, as the question will be resolved on July 1, 2025.
+
+(b) The status quo outcome, if nothing changed, is that Harvard University retains its SEVP certification due to the court's temporary restraining order (TRO) allowing them to continue enrolling international students and scholars while the legal case proceeds.
+
+(c) A scenario that results in a No outcome could involve the court ruling against Harvard before July 1, 2025, leading to the revocation of the TRO and the reinstatement of the DHS's decision to revoke Harvard's SEVP certification. This could happen if the court finds merit in the DHS's allegations or if there is significant political pressure influencing the legal proceedings.
+
+(d) A scenario that results in a Yes outcome would involve the court maintaining the TRO or ruling in favor of Harvard, thereby allowing the university to continue enrolling international students. Additionally, a settlement between Harvard and the DHS, or a change in the administration's stance, could lead to the restoration of the SEVP certification.
+
+Rationale:
+Given the current status quo, where Harvard's SEVP certification is temporarily reinstated by the court, and considering the slow nature of legal proceedings, it is likely that the TRO will remain in place until at least July 1, 2025. Courts typically take time to deliberate, and given the complexity and high-profile nature of this case, a final decision may not be reached before the deadline. Additionally, the political and public pressure surrounding this issue may influence the court to maintain the status quo until a thorough examination is completed. Therefore, the probability of Harvard having its SEVP certification on July 1, 2025, is relatively high.
+
+Probability: 75%
+[2025-05-28 15:02:09] INFO: === Run Summary ===
+[2025-05-28 15:02:09] INFO: Total questions: 1
+[2025-05-28 15:02:09] INFO: Successful research: 1
+[2025-05-28 15:02:09] INFO: Failed research: 0
+[2025-05-28 15:02:09] INFO: Success rate: 100.00%
