@@ -1,0 +1,84 @@
+[2025-05-31 02:12:57] INFO: === Starting new forecast run (Run #2319) ===
+[2025-05-31 02:12:57] INFO: Environment: GitHub Actions
+[2025-05-31 02:12:57] INFO: Repository: agsheves/decis-metaculus-bot1
+[2025-05-31 02:12:57] INFO: Workflow: Forecast on new AI tournament questions
+[2025-05-31 02:12:57] INFO: Commit: ac30b0ba217cef28bc81e9e96e1afc48423363ae
+[2025-05-31 02:12:57] INFO: === Question 1 ===
+[2025-05-31 02:12:57] INFO: URL: https://www.metaculus.com/questions/38109
+[2025-05-31 02:12:57] INFO: Text: Will Kalshi offer markets on daily baseball games every day in June 2025?
+[2025-05-31 02:13:07] INFO: Research: Perplexity succeeded for https://www.metaculus.com/questions/38109
+[2025-05-31 02:13:13] INFO: === Forecast Result ===
+[2025-05-31 02:13:13] INFO: URL: https://www.metaculus.com/questions/38109
+[2025-05-31 02:13:13] INFO: Prediction: 0.85
+[2025-05-31 02:13:13] INFO: Reasoning: (a) The time left until the outcome to the question is known is 30 days, as the question pertains to the availability of markets every day in June 2025.
+
+(b) The status quo outcome if nothing changed is "Yes," since Kalshi is currently offering markets on daily baseball games and has not announced any suspension for June 2025.
+
+(c) A brief description of a scenario that results in a No outcome: Regulatory intervention occurs, leading to a suspension or halt of Kalshi's daily baseball game markets. This could be due to increased pressure from state regulators or MLB, resulting in a cease-and-desist order that Kalshi complies with, effectively stopping the offering of these markets.
+
+(d) A brief description of a scenario that results in a Yes outcome: Kalshi continues to operate its daily baseball game markets without any regulatory interruptions. The company successfully navigates regulatory scrutiny by maintaining compliance with existing laws and implementing user protections, allowing it to offer markets every day in June 2025.
+
+Given the current status quo and the absence of any immediate threats to Kalshi's operations, the likelihood of the markets being available every day in June 2025 is relatively high. However, the regulatory environment remains a potential risk factor.
+
+Probability: 85%
+[2025-05-31 02:13:13] INFO: === Forecast Result ===
+[2025-05-31 02:13:13] INFO: URL: https://www.metaculus.com/questions/38109
+[2025-05-31 02:13:13] INFO: Prediction: 0.85
+[2025-05-31 02:13:13] INFO: Reasoning: (a) The time left until the outcome to the question is known is 30 days, as the question pertains to the availability of markets every day in June 2025.
+
+(b) The status quo outcome if nothing changed is a "Yes," as Kalshi currently offers markets on daily baseball games and there is no indication of a planned suspension for June 2025.
+
+(c) A brief description of a scenario that results in a No outcome: Regulatory intervention occurs, such as a new ruling or enforcement action by state regulators or MLB, which forces Kalshi to suspend or discontinue its daily baseball game markets during June 2025. This could be due to increased pressure or legal challenges that Kalshi is unable to overcome or negotiate in time.
+
+(d) A brief description of a scenario that results in a Yes outcome: Kalshi continues to operate its daily baseball game markets without interruption throughout June 2025, successfully navigating any regulatory challenges or negotiations. The company maintains compliance with any new regulations and continues to offer these markets as part of its sports betting portfolio.
+
+Given the current status quo and the lack of immediate threats or announcements indicating a suspension, the probability of a "Yes" outcome is relatively high. However, the ongoing regulatory scrutiny introduces some uncertainty.
+
+Probability: 85%
+[2025-05-31 02:13:14] INFO: === Forecast Result ===
+[2025-05-31 02:13:14] INFO: URL: https://www.metaculus.com/questions/38109
+[2025-05-31 02:13:14] INFO: Prediction: 0.85
+[2025-05-31 02:13:14] INFO: Reasoning: (a) The time left until the outcome to the question is known is 30 days, as the question pertains to the availability of markets every day in June 2025.
+
+(b) The status quo outcome if nothing changed is Yes, since Kalshi currently offers markets on daily baseball games and there is no indication of a planned suspension for June 2025.
+
+(c) A brief description of a scenario that results in a No outcome: Regulatory authorities, such as state regulators or MLB, could intervene and impose restrictions or a ban on Kalshi's sports markets, including daily baseball game markets. This could happen if regulatory scrutiny intensifies or if Kalshi fails to comply with existing or new regulations, leading to a suspension of these markets.
+
+(d) A brief description of a scenario that results in a Yes outcome: Kalshi continues to operate its daily baseball game markets throughout June 2025 without any regulatory interventions or disruptions. The company maintains its current offerings, including the recently launched single-game moneyline markets, and successfully navigates any regulatory challenges that arise.
+
+Given the current situation, where Kalshi is actively offering daily baseball game markets and has not announced any suspension, the status quo strongly suggests a Yes outcome. While regulatory risks exist, they have not yet materialized into actions that would halt these markets. Therefore, the probability of a Yes outcome is relatively high.
+
+Probability: 85%
+[2025-05-31 02:13:14] INFO: === Forecast Result ===
+[2025-05-31 02:13:14] INFO: URL: https://www.metaculus.com/questions/38109
+[2025-05-31 02:13:14] INFO: Prediction: 0.85
+[2025-05-31 02:13:14] INFO: Reasoning: (a) The time left until the outcome to the question is known is one month, as the question pertains to the availability of markets every day in June 2025.
+
+(b) The status quo outcome if nothing changed is "Yes," as Kalshi currently offers markets on daily baseball games and there is no indication of a planned suspension for June 2025.
+
+(c) A brief description of a scenario that results in a No outcome: Regulatory intervention occurs, such as a new cease-and-desist order from state regulators or MLB, forcing Kalshi to suspend its daily baseball game markets during June 2025. Alternatively, Kalshi could face technical or operational challenges that prevent them from offering these markets consistently throughout the month.
+
+(d) A brief description of a scenario that results in a Yes outcome: Kalshi continues to operate its daily baseball game markets without interruption throughout June 2025, successfully navigating any regulatory challenges and maintaining its current offerings.
+
+Given the current status quo and the lack of any explicit announcements or indications of a planned suspension, the probability of a "Yes" outcome is relatively high. However, the ongoing regulatory scrutiny introduces some uncertainty. Nonetheless, the status quo outcome should be given extra weight, as the world changes slowly most of the time.
+
+Probability: 85%
+[2025-05-31 02:13:16] INFO: === Forecast Result ===
+[2025-05-31 02:13:16] INFO: URL: https://www.metaculus.com/questions/38109
+[2025-05-31 02:13:16] INFO: Prediction: 0.85
+[2025-05-31 02:13:16] INFO: Reasoning: (a) The time left until the outcome to the question is known is 30 days, as the question pertains to the availability of markets every day in June 2025.
+
+(b) The status quo outcome if nothing changed is "Yes," since Kalshi currently offers markets on daily baseball games and there is no indication of a planned suspension for June 2025.
+
+(c) A brief description of a scenario that results in a No outcome: Regulatory intervention occurs, such as a court ruling or action by state regulators, that forces Kalshi to suspend its daily baseball game markets. This could happen if the ongoing scrutiny from MLB and Nevada regulators intensifies, leading to legal or regulatory actions that impact Kalshi's ability to offer these markets.
+
+(d) A brief description of a scenario that results in a Yes outcome: Kalshi continues to operate its daily baseball game markets without any regulatory interruptions. The company successfully navigates the regulatory environment, perhaps by continuing to implement user protections and compliance measures that satisfy regulators, allowing them to maintain their offerings throughout June 2025.
+
+Given the current status quo and the lack of any immediate threats or announcements regarding the suspension of these markets, the probability of a "Yes" outcome is high. However, the regulatory environment remains a potential risk factor.
+
+Probability: 85%
+[2025-05-31 02:13:17] INFO: === Run Summary ===
+[2025-05-31 02:13:17] INFO: Total questions: 1
+[2025-05-31 02:13:17] INFO: Successful research: 1
+[2025-05-31 02:13:17] INFO: Failed research: 0
+[2025-05-31 02:13:17] INFO: Success rate: 100.00%
