@@ -1,0 +1,135 @@
+[2025-06-02 16:01:21] INFO: === Starting new forecast run (Run #2439) ===
+[2025-06-02 16:01:21] INFO: Environment: GitHub Actions
+[2025-06-02 16:01:21] INFO: Repository: agsheves/decis-metaculus-bot1
+[2025-06-02 16:01:21] INFO: Workflow: Forecast on new AI tournament questions
+[2025-06-02 16:01:21] INFO: Commit: 09a22fb050dd0c5c8719486e535c463efbfe5fce
+[2025-06-02 16:01:21] INFO: === Question 1 ===
+[2025-06-02 16:01:21] INFO: URL: https://www.metaculus.com/questions/38303
+[2025-06-02 16:01:21] INFO: Text: How much will the How to Train Your Dragon 2025 live-action remake earn in domestic gross earnings during its opening weekend?
+[2025-06-02 16:01:32] INFO: Research: Perplexity succeeded for https://www.metaculus.com/questions/38303
+[2025-06-02 16:01:40] INFO: === Forecast Result ===
+[2025-06-02 16:01:40] INFO: URL: https://www.metaculus.com/questions/38303
+[2025-06-02 16:01:40] INFO: Prediction: [Percentile(value=60000000.0, percentile=0.1), Percentile(value=70000000.0, percentile=0.2), Percentile(value=80000000.0, percentile=0.4), Percentile(value=90000000.0, percentile=0.6), Percentile(value=100000000.0, percentile=0.8), Percentile(value=110000000.0, percentile=0.9)]
+[2025-06-02 16:01:40] INFO: Reasoning: (a) The time left until the outcome to the question is known is approximately 11 days, as the film is scheduled for release on June 13, 2025, and the opening weekend results will be available shortly after.
+
+(b) The outcome if nothing changed would likely be in the range of $65-75 million, based on the earlier conservative projections from May 2, 2025.
+
+(c) The outcome if the current trend continued would likely be in the range of $80-100 million, as the most recent projections from May 23, 2025, suggest.
+
+(d) The expectations of experts and markets are currently leaning towards an opening weekend gross of $80-100 million, reflecting increased momentum and audience interest as the release date approaches.
+
+(e) A brief description of an unexpected scenario that results in a low outcome could involve negative reviews or poor word-of-mouth following early screenings, which might deter audiences and result in an opening weekend gross below $65 million.
+
+(f) A brief description of an unexpected scenario that results in a high outcome could involve extremely positive reviews and strong word-of-mouth, coupled with a highly successful marketing push, leading to an opening weekend gross exceeding $100 million.
+
+Given the information and considering the potential for unexpected scenarios, I will provide a range of potential outcomes with a wide confidence interval:
+
+"
+Percentile 10: 60,000,000
+Percentile 20: 70,000,000
+Percentile 40: 80,000,000
+Percentile 60: 90,000,000
+Percentile 80: 100,000,000
+Percentile 90: 110,000,000
+"
+[2025-06-02 16:01:40] INFO: === Forecast Result ===
+[2025-06-02 16:01:40] INFO: URL: https://www.metaculus.com/questions/38303
+[2025-06-02 16:01:40] INFO: Prediction: [Percentile(value=70000000.0, percentile=0.1), Percentile(value=75000000.0, percentile=0.2), Percentile(value=85000000.0, percentile=0.4), Percentile(value=95000000.0, percentile=0.6), Percentile(value=105000000.0, percentile=0.8), Percentile(value=110000000.0, percentile=0.9)]
+[2025-06-02 16:01:40] INFO: Reasoning: (a) The time left until the outcome to the question is known: The film is scheduled for release on June 13, 2025, and the opening weekend results will likely be available by June 16, 2025. Therefore, there are approximately 11 days left until the outcome is known.
+
+(b) The outcome if nothing changed: If nothing changed from the current projections, the film would earn between $80 million and $100 million in domestic gross earnings during its opening weekend.
+
+(c) The outcome if the current trend continued: If the current trend of increasing projections continues, the film could potentially exceed the $100 million mark, possibly reaching $105 million or more, depending on further momentum and audience interest.
+
+(d) The expectations of experts and markets: Experts and markets currently expect the film to earn between $80 million and $100 million, with some earlier forecasts suggesting a lower range of $65 million to $75 million. The upward revision in projections indicates positive expectations.
+
+(e) A brief description of an unexpected scenario that results in a low outcome: An unexpected scenario that could result in a low outcome might include negative reviews or poor word-of-mouth following early screenings, leading to a significant drop in audience interest and attendance.
+
+(f) A brief description of an unexpected scenario that results in a high outcome: An unexpected scenario that could result in a high outcome might involve overwhelmingly positive reviews and strong word-of-mouth, coupled with a successful marketing campaign, leading to a surge in ticket sales beyond current projections.
+
+Final Answer:
+```
+Percentile 10: 70,000,000
+Percentile 20: 75,000,000
+Percentile 40: 85,000,000
+Percentile 60: 95,000,000
+Percentile 80: 105,000,000
+Percentile 90: 110,000,000
+```
+[2025-06-02 16:01:43] INFO: === Forecast Result ===
+[2025-06-02 16:01:43] INFO: URL: https://www.metaculus.com/questions/38303
+[2025-06-02 16:01:43] INFO: Prediction: [Percentile(value=65000000.0, percentile=0.1), Percentile(value=75000000.0, percentile=0.2), Percentile(value=85000000.0, percentile=0.4), Percentile(value=95000000.0, percentile=0.6), Percentile(value=105000000.0, percentile=0.8), Percentile(value=115000000.0, percentile=0.9)]
+[2025-06-02 16:01:43] INFO: Reasoning: (a) The time left until the outcome to the question is known: The film is scheduled for release on June 13, 2025, and the opening weekend results will be available shortly after. Therefore, the outcome will be known in approximately two weeks.
+
+(b) The outcome if nothing changed: If nothing changed from the current projections, the opening weekend domestic gross earnings would likely fall within the $80-100 million range.
+
+(c) The outcome if the current trend continued: If the current trend of increasing projections continued, the opening weekend earnings could potentially surpass $100 million, possibly reaching up to $110 million.
+
+(d) The expectations of experts and markets: Experts and market projections currently expect the film to earn between $80-100 million during its opening weekend. This is based on factors such as the franchise's popularity, marketing efforts, and the timing of the release.
+
+(e) A brief description of an unexpected scenario that results in a low outcome: An unexpected scenario that could result in a low outcome might be negative reviews from critics or audiences, leading to poor word-of-mouth and reduced ticket sales. Additionally, unforeseen events such as a significant weather event or a competing film unexpectedly performing well could impact attendance.
+
+(f) A brief description of an unexpected scenario that results in a high outcome: A high outcome could occur if the film receives exceptionally positive reviews, generating strong word-of-mouth and driving higher-than-expected ticket sales. Additionally, if the film taps into a broader audience beyond the franchise's existing fan base, it could significantly boost earnings.
+
+Final Answer:
+```
+Percentile 10: 65,000,000
+Percentile 20: 75,000,000
+Percentile 40: 85,000,000
+Percentile 60: 95,000,000
+Percentile 80: 105,000,000
+Percentile 90: 115,000,000
+```
+[2025-06-02 16:01:43] INFO: === Forecast Result ===
+[2025-06-02 16:01:43] INFO: URL: https://www.metaculus.com/questions/38303
+[2025-06-02 16:01:43] INFO: Prediction: [Percentile(value=65000000.0, percentile=0.1), Percentile(value=75000000.0, percentile=0.2), Percentile(value=85000000.0, percentile=0.4), Percentile(value=95000000.0, percentile=0.6), Percentile(value=105000000.0, percentile=0.8), Percentile(value=115000000.0, percentile=0.9)]
+[2025-06-02 16:01:43] INFO: Reasoning: (a) The time left until the outcome to the question is known: The film is scheduled for release on June 13, 2025, so the opening weekend results will likely be available by June 16, 2025. As of today, June 2, 2025, there are 11 days until the release and approximately 14 days until the opening weekend box office results are known.
+
+(b) The outcome if nothing changed: If nothing changes from the current projections, the film is expected to earn between $80-100 million in domestic gross earnings during its opening weekend.
+
+(c) The outcome if the current trend continued: The trend shows an increase in projected earnings from $65-75 million to $80-100 million. If this trend continues, the film could potentially exceed $100 million, possibly reaching $105-110 million.
+
+(d) The expectations of experts and markets: Experts and market analysts currently expect the film to earn between $80-100 million, with some optimism that it could exceed this range due to positive momentum and strong franchise support.
+
+(e) A brief description of an unexpected scenario that results in a low outcome: An unexpected scenario that could lead to a low outcome might include negative reviews from early screenings, a major competing film release that draws away potential audiences, or unforeseen events such as a significant weather event impacting major markets.
+
+(f) A brief description of an unexpected scenario that results in a high outcome: A high outcome could result from exceptionally positive word-of-mouth following early screenings, a viral marketing campaign that significantly boosts interest, or a lack of competition in the market leading to higher-than-expected attendance.
+
+Final Answer:
+"
+Percentile 10: 65,000,000
+Percentile 20: 75,000,000
+Percentile 40: 85,000,000
+Percentile 60: 95,000,000
+Percentile 80: 105,000,000
+Percentile 90: 115,000,000
+"
+[2025-06-02 16:01:43] INFO: === Forecast Result ===
+[2025-06-02 16:01:43] INFO: URL: https://www.metaculus.com/questions/38303
+[2025-06-02 16:01:43] INFO: Prediction: [Percentile(value=65000000.0, percentile=0.1), Percentile(value=75000000.0, percentile=0.2), Percentile(value=85000000.0, percentile=0.4), Percentile(value=95000000.0, percentile=0.6), Percentile(value=105000000.0, percentile=0.8), Percentile(value=115000000.0, percentile=0.9)]
+[2025-06-02 16:01:43] INFO: Reasoning: (a) The time left until the outcome to the question is known: The film is scheduled for release on June 13, 2025, and the opening weekend results will be available shortly after that date. Therefore, there are approximately 11 days left until the outcome is known.
+
+(b) The outcome if nothing changed: If nothing changed from the current projections, the film would earn between $80 million and $100 million in domestic gross earnings during its opening weekend.
+
+(c) The outcome if the current trend continued: If the current trend of increasing projections continued, the film could potentially exceed the $100 million mark, possibly reaching up to $110 million or more, depending on the strength of the final marketing push and audience interest.
+
+(d) The expectations of experts and markets: Experts and market analysts currently expect the film to earn between $80 million and $100 million during its opening weekend, with some earlier forecasts suggesting a lower range of $65 million to $75 million.
+
+(e) A brief description of an unexpected scenario that results in a low outcome: An unexpected scenario that could result in a low outcome might include negative reviews from critics and audiences, leading to poor word-of-mouth and reduced ticket sales. Additionally, unforeseen events such as a major competing release or significant external events (e.g., natural disasters, political events) could impact box office performance.
+
+(f) A brief description of an unexpected scenario that results in a high outcome: An unexpected scenario that could result in a high outcome might include overwhelmingly positive reviews and strong word-of-mouth, leading to higher-than-expected ticket sales. Additionally, if the film resonates particularly well with audiences, it could attract a broader demographic, boosting earnings beyond current projections.
+
+Final Answer:
+"
+Percentile 10: 65,000,000
+Percentile 20: 75,000,000
+Percentile 40: 85,000,000
+Percentile 60: 95,000,000
+Percentile 80: 105,000,000
+Percentile 90: 115,000,000
+"
+[2025-06-02 16:01:43] INFO: === Run Summary ===
+[2025-06-02 16:01:43] INFO: Total questions: 1
+[2025-06-02 16:01:43] INFO: Successful research: 1
+[2025-06-02 16:01:43] INFO: Failed research: 0
+[2025-06-02 16:01:43] INFO: Success rate: 100.00%
