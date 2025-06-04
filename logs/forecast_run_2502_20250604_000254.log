@@ -1,0 +1,131 @@
+[2025-06-04 00:02:54] INFO: === Starting new forecast run (Run #2502) ===
+[2025-06-04 00:02:54] INFO: Environment: GitHub Actions
+[2025-06-04 00:02:54] INFO: Repository: agsheves/decis-metaculus-bot1
+[2025-06-04 00:02:54] INFO: Workflow: Forecast on new AI tournament questions
+[2025-06-04 00:02:54] INFO: Commit: ded51ae68e7cba1da8590731150c3ec877b4a0a0
+[2025-06-04 00:02:54] INFO: === Question 1 ===
+[2025-06-04 00:02:54] INFO: URL: https://www.metaculus.com/questions/38316
+[2025-06-04 00:02:54] INFO: Text: How many movies will be new on Netflix's American top 10 movies list for the week ending June 22, 2025?
+[2025-06-04 00:03:08] INFO: Research: Perplexity succeeded for https://www.metaculus.com/questions/38316
+[2025-06-04 00:03:19] INFO: === Forecast Result ===
+[2025-06-04 00:03:19] INFO: URL: https://www.metaculus.com/questions/38316
+[2025-06-04 00:03:19] INFO: Prediction: predicted_options=[PredictedOption(option_name='Zero', probability=0.1), PredictedOption(option_name='One', probability=0.3), PredictedOption(option_name='Two', probability=0.4), PredictedOption(option_name='Three or more', probability=0.2)]
+[2025-06-04 00:03:19] INFO: Reasoning: (a) The time left until the outcome to the question is known is 18 days, as today is June 4, 2025, and the week ending June 22, 2025, will be the relevant period for determining the new entries in the Netflix top 10 movies list.
+
+(b) The status quo outcome if nothing changed would be that no new movies enter the top 10 list. However, given the dynamic nature of streaming platforms and the introduction of new content, it is unlikely that the list will remain unchanged.
+
+(c) An unexpected outcome could occur if a newly released movie gains viral popularity, leading to a significant reshuffling of the top 10 list. For example, if a classic Hitchcock film or a popular franchise movie like "Now You See Me" suddenly resonates with audiences, it could quickly climb the ranks and push multiple new entries into the top 10.
+
+Rationale:
+
+1. **Status Quo Bias**: The current top 10 list includes movies that have been there for varying durations, with "A Widow's Game" and "The Wild Robot" being relatively new. The status quo suggests that some movies may remain on the list, but given the introduction of new content, it is reasonable to expect some turnover.
+
+2. **New Content Impact**: The addition of numerous movies on June 1, 2025, including popular franchises and classics, increases the likelihood of new entries in the top 10. Streaming platforms often see shifts in viewer preferences with the release of new content, especially when it includes well-known titles.
+
+3. **Historical Context**: While we lack complete historical data on turnover rates, the presence of new releases and the dynamic nature of streaming suggest that at least one or two new movies are likely to enter the top 10.
+
+4. **Unexpected Outcomes**: Given the unpredictability of viewer preferences and potential viral hits, it is prudent to allocate some probability to the "Three or more" option.
+
+Final Probabilities:
+- Zero: 10%
+- One: 30%
+- Two: 40%
+- Three or more: 20%
+[2025-06-04 00:03:20] INFO: === Forecast Result ===
+[2025-06-04 00:03:20] INFO: URL: https://www.metaculus.com/questions/38316
+[2025-06-04 00:03:20] INFO: Prediction: predicted_options=[PredictedOption(option_name='Zero', probability=0.2), PredictedOption(option_name='One', probability=0.3), PredictedOption(option_name='Two', probability=0.3), PredictedOption(option_name='Three or more', probability=0.2)]
+[2025-06-04 00:03:20] INFO: Reasoning: (a) The time left until the outcome to the question is known is approximately 18 days, as today is June 4, 2025, and the week ending June 22, 2025, is when the outcome will be determined.
+
+(b) The status quo outcome if nothing changed would be that no new movies enter the top 10 list. However, given the information that new movies are being added to Netflix in June 2025, it is reasonable to expect some turnover in the list.
+
+(c) An unexpected outcome scenario could involve one or more of the newly added movies gaining unexpected popularity due to viral marketing, social media trends, or external events that boost their viewership significantly. For example, a classic Hitchcock film could become a trending topic due to a new documentary or a popular influencer recommending it, leading to multiple new entries in the top 10 list.
+
+Rationale:
+1. **Status Quo Bias**: The current top 10 list is not fully known, but we know that "A Widow's Game" and "The Wild Robot" are currently popular. Given the typical behavior of Netflix's top 10, where movies can stay for several weeks, it's reasonable to assume some of the current movies will remain on the list by June 22. However, the addition of new content in June suggests that some turnover is likely.
+
+2. **New Releases**: The addition of popular and classic movies, such as "Barbarian," "Us," and Hitchcock films, increases the likelihood of new entries. These movies have established fan bases and could quickly gain traction on the platform.
+
+3. **Historical Context**: While we lack complete historical data on turnover rates, the presence of movies like "The Wild Robot" for over a week suggests that some movies have staying power, but new releases can disrupt the list.
+
+4. **Uncertainty and Unexpected Outcomes**: Given the unpredictable nature of viewer preferences and external influences (e.g., social media trends), it's prudent to allocate some probability to scenarios where multiple new movies enter the top 10.
+
+Final Probabilities:
+- Zero: 20%
+- One: 30%
+- Two: 30%
+- Three or more: 20%
+[2025-06-04 00:03:21] INFO: === Forecast Result ===
+[2025-06-04 00:03:21] INFO: URL: https://www.metaculus.com/questions/38316
+[2025-06-04 00:03:21] INFO: Prediction: predicted_options=[PredictedOption(option_name='Zero', probability=0.1), PredictedOption(option_name='One', probability=0.25), PredictedOption(option_name='Two', probability=0.35), PredictedOption(option_name='Three or more', probability=0.3)]
+[2025-06-04 00:03:21] INFO: Reasoning: (a) The time left until the outcome to the question is known is approximately 18 days, as today is June 4, 2025, and the week ending June 22, 2025, is the target date.
+
+(b) The status quo outcome if nothing changed would be that the current movies remain on the list, with no new movies entering the top 10. However, given the information about new releases and historical turnover, this is unlikely.
+
+(c) A scenario that results in an unexpected outcome could involve a sudden surge in popularity for a newly released movie or an unexpected event that drives viewers to watch specific films, such as a viral trend or a significant cultural event that makes certain movies more relevant.
+
+Rationale:
+1. **Status Quo Weighting**: The current top 10 list is not fully known, but we know that movies can have varying durations on the list. Given that new movies are being added on June 1, it's reasonable to expect some turnover in the list by June 22. However, the status quo suggests that at least some of the current movies will remain on the list.
+
+2. **New Releases**: With numerous new movies being added, including popular franchises and classics, it is likely that some of these will enter the top 10. The appeal of these movies, combined with Netflix's promotional efforts, can drive them into the top 10.
+
+3. **Historical Context**: The historical context suggests that movies can stay on the list for several days to weeks. Given the introduction of new content, it's probable that at least one or two new movies will make it to the top 10.
+
+4. **Unexpected Outcomes**: While the most likely scenario involves some new entries, unexpected outcomes such as a viral trend or a significant cultural event could lead to more new entries than anticipated.
+
+Final Probabilities:
+- Zero: 10% (unlikely given new releases and historical turnover)
+- One: 25% (possible if only one new release gains significant traction)
+- Two: 35% (likely given the number of new releases and historical patterns)
+- Three or more: 30% (possible if multiple new releases perform exceptionally well)
+[2025-06-04 00:03:21] INFO: === Forecast Result ===
+[2025-06-04 00:03:21] INFO: URL: https://www.metaculus.com/questions/38316
+[2025-06-04 00:03:21] INFO: Prediction: predicted_options=[PredictedOption(option_name='Zero', probability=0.1), PredictedOption(option_name='One', probability=0.3), PredictedOption(option_name='Two', probability=0.35), PredictedOption(option_name='Three or more', probability=0.25)]
+[2025-06-04 00:03:21] INFO: Reasoning: (a) The time left until the outcome to the question is known is approximately 18 days, as today is June 4, 2025, and the week ending June 22, 2025, will conclude the relevant period.
+
+(b) The status quo outcome if nothing changed would be that the current movies in the top 10 list remain there, with no new entries. However, given that new content is being added and the dynamic nature of streaming platforms, it is unlikely that there will be zero new entries by June 22.
+
+(c) An unexpected scenario could involve one or more of the newly added movies gaining unexpected popularity, perhaps due to a viral social media trend or a sudden surge in interest due to external factors (e.g., a related event or celebrity endorsement). This could lead to a higher-than-expected number of new entries in the top 10 list.
+
+Rationale:
+1. **Status Quo Bias**: The current list includes movies that have been there for a short period, suggesting potential for change. However, the list's dynamic nature and the introduction of new content imply that some turnover is likely.
+   
+2. **New Releases**: The addition of popular and classic movies on June 1, 2025, increases the likelihood of new entries. Movies like "Barbarian," "Us," and Hitchcock classics have strong followings and could attract significant viewership.
+
+3. **Historical Context**: While specific historical turnover rates are not provided, the presence of movies on the list for varying durations suggests that new entries are a common occurrence.
+
+4. **Unexpected Outcomes**: While it's reasonable to expect some new entries, the exact number is uncertain. The possibility of a viral hit or unexpected surge in popularity for a particular movie means that even the "Three or more" option cannot be entirely ruled out.
+
+Final Probabilities:
+- Zero: 10% (unlikely given new releases and dynamic nature)
+- One: 30% (possible if only one new release gains traction)
+- Two: 35% (most likely scenario given multiple strong contenders)
+- Three or more: 25% (possible if several new releases become popular)
+[2025-06-04 00:03:21] INFO: === Forecast Result ===
+[2025-06-04 00:03:21] INFO: URL: https://www.metaculus.com/questions/38316
+[2025-06-04 00:03:21] INFO: Prediction: predicted_options=[PredictedOption(option_name='Zero', probability=0.1), PredictedOption(option_name='One', probability=0.25), PredictedOption(option_name='Two', probability=0.35), PredictedOption(option_name='Three or more', probability=0.3)]
+[2025-06-04 00:03:21] INFO: Reasoning: (a) The time left until the outcome to the question is known is approximately 18 days, as today is June 4, 2025, and the week ending June 22, 2025, will conclude on that date.
+
+(b) The status quo outcome if nothing changed would be that no new movies enter the top 10 list. However, given the information provided, it is unlikely that no new movies will enter the list by June 22, 2025, due to the influx of new releases on June 1, 2025.
+
+(c) An unexpected outcome could occur if, for example, a new release gains unexpected viral popularity, causing multiple new entries into the top 10 list. This could happen if a movie receives significant social media attention, a celebrity endorsement, or becomes part of a trending topic, leading to a surge in viewership.
+
+Rationale:
+
+1. **Status Quo Bias**: The current top 10 list has at least two movies with varying durations on the list. However, with new releases coming on June 1, it is reasonable to expect some turnover. Historically, new releases, especially those with strong brand recognition or critical acclaim, tend to enter the top 10 list shortly after their release.
+
+2. **New Releases Impact**: The addition of popular movies like "Barbarian," "Us," and classics from Hitchcock could attract significant viewership, increasing the likelihood of new entries. The presence of popular franchises and well-known titles suggests that at least one or two new movies could enter the list.
+
+3. **Unexpected Outcomes**: While the probability of zero new entries is low, it is not impossible. Factors such as unexpected viewer preferences, strong staying power of current titles, or lackluster reception of new releases could contribute to fewer new entries than anticipated.
+
+4. **Moderate Probability for All Options**: Given the dynamic nature of streaming viewership and the potential for unexpected trends, it is prudent to assign some probability to all options, acknowledging the inherent uncertainty in forecasting.
+
+Final Probabilities:
+- Zero: 10%
+- One: 25%
+- Two: 35%
+- Three or more: 30%
+[2025-06-04 00:03:21] INFO: === Run Summary ===
+[2025-06-04 00:03:21] INFO: Total questions: 1
+[2025-06-04 00:03:21] INFO: Successful research: 1
+[2025-06-04 00:03:21] INFO: Failed research: 0
+[2025-06-04 00:03:21] INFO: Success rate: 100.00%
