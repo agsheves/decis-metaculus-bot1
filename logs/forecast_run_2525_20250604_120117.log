@@ -1,0 +1,137 @@
+[2025-06-04 12:01:17] INFO: === Starting new forecast run (Run #2525) ===
+[2025-06-04 12:01:17] INFO: Environment: GitHub Actions
+[2025-06-04 12:01:17] INFO: Repository: agsheves/decis-metaculus-bot1
+[2025-06-04 12:01:17] INFO: Workflow: Forecast on new AI tournament questions
+[2025-06-04 12:01:17] INFO: Commit: df1876aa9993a82527608a01f96c8b22af89b842
+[2025-06-04 12:01:18] INFO: === Question 1 ===
+[2025-06-04 12:01:18] INFO: URL: https://www.metaculus.com/questions/38320
+[2025-06-04 12:01:18] INFO: Text: How much will Elio earn in domestic gross earnings during its opening weekend?
+[2025-06-04 12:01:28] INFO: Research: Perplexity succeeded for https://www.metaculus.com/questions/38320
+[2025-06-04 12:01:35] INFO: === Forecast Result ===
+[2025-06-04 12:01:35] INFO: URL: https://www.metaculus.com/questions/38320
+[2025-06-04 12:01:35] INFO: Prediction: [Percentile(value=30000000.0, percentile=0.1), Percentile(value=35000000.0, percentile=0.2), Percentile(value=38000000.0, percentile=0.4), Percentile(value=42000000.0, percentile=0.6), Percentile(value=45000000.0, percentile=0.8), Percentile(value=50000000.0, percentile=0.9)]
+[2025-06-04 12:01:35] INFO: Reasoning: (a) The time left until the outcome to the question is known: Approximately 16 days, as the release date is June 20, 2025.
+
+(b) The outcome if nothing changed: If nothing changed from the current projections, *Elio* would earn between $35 million and $45 million in domestic gross during its opening weekend.
+
+(c) The outcome if the current trend continued: If the current trend of weak pre-sales and low industry expectations continued, the opening weekend gross would likely remain within the $35 million to $45 million range.
+
+(d) The expectations of experts and markets: Industry experts and market analysts are expecting *Elio* to have a disappointing opening weekend, with projections consistently falling between $35 million and $45 million.
+
+(e) A brief description of an unexpected scenario that results in a low outcome: An unexpected scenario leading to a low outcome could involve negative early reviews or poor word-of-mouth spreading just before the release, causing potential audiences to avoid the film, resulting in an opening weekend gross below $35 million.
+
+(f) A brief description of an unexpected scenario that results in a high outcome: A high outcome could occur if there is a sudden surge in interest due to a viral marketing campaign or unexpected positive reviews, leading to a significant increase in ticket sales, pushing the opening weekend gross above $45 million.
+
+Final answer:
+"
+Percentile 10: 30,000,000
+Percentile 20: 35,000,000
+Percentile 40: 38,000,000
+Percentile 60: 42,000,000
+Percentile 80: 45,000,000
+Percentile 90: 50,000,000
+"
+[2025-06-04 12:01:36] INFO: === Forecast Result ===
+[2025-06-04 12:01:36] INFO: URL: https://www.metaculus.com/questions/38320
+[2025-06-04 12:01:36] INFO: Prediction: [Percentile(value=30000000.0, percentile=0.1), Percentile(value=35000000.0, percentile=0.2), Percentile(value=38000000.0, percentile=0.4), Percentile(value=42000000.0, percentile=0.6), Percentile(value=45000000.0, percentile=0.8), Percentile(value=50000000.0, percentile=0.9)]
+[2025-06-04 12:01:36] INFO: Reasoning: (a) The time left until the outcome to the question is known: Approximately 16 days, as the release date is June 20, 2025.
+
+(b) The outcome if nothing changed: If nothing changed from the current projections, *Elio* would earn between $35 million and $45 million in domestic gross during its opening weekend.
+
+(c) The outcome if the current trend continued: If the current trend of weak pre-sales and low industry expectations continued, the opening weekend gross would likely remain within the $35 million to $45 million range.
+
+(d) The expectations of experts and markets: Experts and industry sources expect *Elio* to have a disappointing opening weekend, with projections consistently in the $35 million to $45 million range. This is considered low for a Pixar film, especially given its high production budget.
+
+(e) A brief description of an unexpected scenario that results in a low outcome: An unexpected scenario that could result in a lower outcome might include negative early reviews or poor word-of-mouth from preview screenings, leading to reduced interest and lower ticket sales.
+
+(f) A brief description of an unexpected scenario that results in a high outcome: An unexpected scenario that could lead to a higher outcome might involve a sudden surge in interest due to viral marketing, positive reviews, or a strong social media campaign that boosts ticket sales significantly above current projections.
+
+Final Answer:
+"
+Percentile 10: 30,000,000
+Percentile 20: 35,000,000
+Percentile 40: 38,000,000
+Percentile 60: 42,000,000
+Percentile 80: 45,000,000
+Percentile 90: 50,000,000
+"
+[2025-06-04 12:01:36] INFO: === Forecast Result ===
+[2025-06-04 12:01:36] INFO: URL: https://www.metaculus.com/questions/38320
+[2025-06-04 12:01:36] INFO: Prediction: [Percentile(value=30000000.0, percentile=0.1), Percentile(value=35000000.0, percentile=0.2), Percentile(value=38000000.0, percentile=0.4), Percentile(value=42000000.0, percentile=0.6), Percentile(value=45000000.0, percentile=0.8), Percentile(value=50000000.0, percentile=0.9)]
+[2025-06-04 12:01:36] INFO: Reasoning: (a) The time left until the outcome to the question is known is approximately 16 days, as the film is set to release on June 20, 2025, and the opening weekend gross will be known shortly after.
+
+(b) The outcome if nothing changed would be that *Elio* earns between $35 million and $45 million in domestic gross during its opening weekend, based on current projections.
+
+(c) The outcome if the current trend continued would likely remain within the $35 million to $45 million range, as these projections are based on early ticket pre-sales and box office tracking data.
+
+(d) The expectations of experts and markets are that *Elio* will have a weak opening weekend for a Pixar film, with earnings between $35 million and $45 million, which is considered disappointing given its high production budget.
+
+(e) A brief description of an unexpected scenario that results in a low outcome could involve negative reviews or poor word-of-mouth leading up to the release, which could further dampen audience interest and result in an opening weekend gross below $35 million.
+
+(f) A brief description of an unexpected scenario that results in a high outcome could involve a sudden surge in positive buzz or a viral marketing campaign that significantly boosts ticket sales, leading to an opening weekend gross above $45 million.
+
+Given the current information and the need to account for uncertainties, here is the final answer with wide confidence intervals:
+
+"
+Percentile 10: 30,000,000
+Percentile 20: 35,000,000
+Percentile 40: 38,000,000
+Percentile 60: 42,000,000
+Percentile 80: 45,000,000
+Percentile 90: 50,000,000
+"
+[2025-06-04 12:01:36] INFO: === Forecast Result ===
+[2025-06-04 12:01:36] INFO: URL: https://www.metaculus.com/questions/38320
+[2025-06-04 12:01:36] INFO: Prediction: [Percentile(value=30000000.0, percentile=0.1), Percentile(value=35000000.0, percentile=0.2), Percentile(value=38000000.0, percentile=0.4), Percentile(value=42000000.0, percentile=0.6), Percentile(value=45000000.0, percentile=0.8), Percentile(value=50000000.0, percentile=0.9)]
+[2025-06-04 12:01:36] INFO: Reasoning: (a) The time left until the outcome to the question is known is approximately 16 days, as the film is set to release on June 20, 2025, and the opening weekend box office figures will likely be reported shortly after.
+
+(b) The outcome if nothing changed would be that *Elio* earns between $35 million and $45 million in domestic gross during its opening weekend, based on current projections.
+
+(c) The outcome if the current trend continued would also likely fall within the $35 million to $45 million range, as the projections are based on early ticket pre-sales and box office tracking data, which are typically reliable indicators at this stage.
+
+(d) The expectations of experts and markets are that *Elio* will have a disappointing opening weekend for a Pixar film, with earnings projected between $35 million and $45 million. This is considered low, especially given the film's high production budget of nearly $300 million.
+
+(e) An unexpected scenario that results in a low outcome could involve negative reviews or poor word-of-mouth leading up to the release, causing potential audiences to lose interest and resulting in an opening weekend gross below $35 million.
+
+(f) An unexpected scenario that results in a high outcome could involve a surge in positive buzz or a viral marketing campaign that significantly boosts interest and ticket sales, leading to an opening weekend gross exceeding $45 million.
+
+Given these considerations, my final answer is:
+
+"
+Percentile 10: 30,000,000
+Percentile 20: 35,000,000
+Percentile 40: 38,000,000
+Percentile 60: 42,000,000
+Percentile 80: 45,000,000
+Percentile 90: 50,000,000
+"
+[2025-06-04 12:01:37] INFO: === Forecast Result ===
+[2025-06-04 12:01:37] INFO: URL: https://www.metaculus.com/questions/38320
+[2025-06-04 12:01:37] INFO: Prediction: [Percentile(value=30000000.0, percentile=0.1), Percentile(value=35000000.0, percentile=0.2), Percentile(value=38000000.0, percentile=0.4), Percentile(value=42000000.0, percentile=0.6), Percentile(value=47000000.0, percentile=0.8), Percentile(value=52000000.0, percentile=0.9)]
+[2025-06-04 12:01:37] INFO: Reasoning: (a) The time left until the outcome to the question is known is approximately 16 days, as the film is set to release on June 20, 2025, and the opening weekend gross will be known shortly thereafter.
+
+(b) The outcome if nothing changed would likely be an opening weekend domestic gross of between $35 million and $45 million, based on current projections.
+
+(c) The outcome if the current trend continued would also likely fall within the $35 million to $45 million range, as the projections are based on early ticket pre-sales and tracking data.
+
+(d) The expectations of experts and markets are that *Elio* will have a disappointing opening weekend for a Pixar film, with a domestic gross between $35 million and $45 million. This is considered low given the film's high production budget.
+
+(e) A brief description of an unexpected scenario that results in a low outcome could involve negative reviews or poor word-of-mouth leading up to the release, further dampening audience interest and resulting in an opening weekend gross below $35 million.
+
+(f) A brief description of an unexpected scenario that results in a high outcome could involve a surge in interest due to positive reviews or viral marketing, leading to a stronger-than-expected turnout and an opening weekend gross exceeding $45 million.
+
+Given the current information and the need to account for unknown unknowns, here is the final forecast:
+
+```
+Percentile 10: 30,000,000
+Percentile 20: 35,000,000
+Percentile 40: 38,000,000
+Percentile 60: 42,000,000
+Percentile 80: 47,000,000
+Percentile 90: 52,000,000
+```
+[2025-06-04 12:01:37] INFO: === Run Summary ===
+[2025-06-04 12:01:37] INFO: Total questions: 1
+[2025-06-04 12:01:37] INFO: Successful research: 1
+[2025-06-04 12:01:37] INFO: Failed research: 0
+[2025-06-04 12:01:37] INFO: Success rate: 100.00%
