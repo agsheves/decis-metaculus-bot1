@@ -1,0 +1,134 @@
+[2025-06-05 08:01:16] INFO: === Starting new forecast run (Run #2564) ===
+[2025-06-05 08:01:16] INFO: Environment: GitHub Actions
+[2025-06-05 08:01:16] INFO: Repository: agsheves/decis-metaculus-bot1
+[2025-06-05 08:01:16] INFO: Workflow: Forecast on new AI tournament questions
+[2025-06-05 08:01:16] INFO: Commit: 843663564e4fcf129776b129864ef03376068bbc
+[2025-06-05 08:01:17] INFO: === Question 1 ===
+[2025-06-05 08:01:17] INFO: URL: https://www.metaculus.com/questions/38329
+[2025-06-05 08:01:17] INFO: Text: How much will F1 earn in domestic gross earnings during its opening weekend?
+[2025-06-05 08:01:27] INFO: Research: Perplexity succeeded for https://www.metaculus.com/questions/38329
+[2025-06-05 08:01:40] INFO: === Forecast Result ===
+[2025-06-05 08:01:40] INFO: URL: https://www.metaculus.com/questions/38329
+[2025-06-05 08:01:40] INFO: Prediction: [Percentile(value=20000000.0, percentile=0.1), Percentile(value=30000000.0, percentile=0.2), Percentile(value=40000000.0, percentile=0.4), Percentile(value=50000000.0, percentile=0.6), Percentile(value=60000000.0, percentile=0.8), Percentile(value=70000000.0, percentile=0.9)]
+[2025-06-05 08:01:40] INFO: Reasoning: (a) The time left until the outcome to the question is known: Approximately one month, as the outcome needs to be known by July 5, 2025.
+
+(b) The outcome if nothing changed: If nothing changed, the domestic gross earnings for F1's opening weekend would likely be substantial, reflecting the high attendance and ticket prices typical of recent years.
+
+(c) The outcome if the current trend continued: If the current trend of high attendance and ticket prices continues, the domestic gross earnings for the opening weekend would likely be in line with, or slightly higher than, previous years, given the strong demand and popularity of F1 in the US.
+
+(d) The expectations of experts and markets: Experts and markets likely expect strong domestic gross earnings for F1's opening weekend, given the historical attendance figures, high ticket prices, and ongoing popularity of F1 in the US.
+
+(e) A brief description of an unexpected scenario that results in a low outcome: An unexpected scenario that could result in a low outcome might include a significant disruption, such as a severe weather event or a major logistical issue, leading to a drop in attendance or cancellation of events.
+
+(f) A brief description of an unexpected scenario that results in a high outcome: An unexpected scenario that could result in a high outcome might include a sudden surge in interest due to a major storyline or event in the F1 world, such as a popular driver achieving a significant milestone, leading to increased attendance and media coverage.
+
+Final answer:
+"
+Percentile 10: 20,000,000
+Percentile 20: 30,000,000
+Percentile 40: 40,000,000
+Percentile 60: 50,000,000
+Percentile 80: 60,000,000
+Percentile 90: 70,000,000
+"
+[2025-06-05 08:01:40] INFO: === Forecast Result ===
+[2025-06-05 08:01:40] INFO: URL: https://www.metaculus.com/questions/38329
+[2025-06-05 08:01:40] INFO: Prediction: [Percentile(value=50000000.0, percentile=0.1), Percentile(value=70000000.0, percentile=0.2), Percentile(value=90000000.0, percentile=0.4), Percentile(value=110000000.0, percentile=0.6), Percentile(value=130000000.0, percentile=0.8), Percentile(value=150000000.0, percentile=0.9)]
+[2025-06-05 08:01:40] INFO: Reasoning: (a) The time left until the outcome to the question is known: Approximately one month, as the outcome will be known by July 5, 2025.
+
+(b) The outcome if nothing changed: If nothing changed, the domestic gross earnings for the F1 opening weekend would likely be similar to previous years, given the strong attendance figures, high ticket prices, and advance sales. This suggests a substantial gross earnings figure.
+
+(c) The outcome if the current trend continued: If the current trend of high attendance and expensive ticket pricing continues, the domestic gross earnings for the F1 opening weekend should remain strong, potentially matching or slightly exceeding previous years' figures.
+
+(d) The expectations of experts and markets: Experts and markets likely expect strong earnings for the F1 opening weekend, given the consistent high attendance and ticket pricing, as well as the continued popularity of F1 in the US.
+
+(e) A brief description of an unexpected scenario that results in a low outcome: An unexpected scenario that could result in a low outcome might include a significant disruption, such as extreme weather conditions, a major logistical issue, or a sudden public health concern that leads to reduced attendance or event cancellation.
+
+(f) A brief description of an unexpected scenario that results in a high outcome: A high outcome could occur if there is an unexpected surge in attendance due to a last-minute star driver appearance, a major promotional event, or a significant increase in international visitors, leading to even higher ticket sales and gross earnings.
+
+Final answer:
+"
+Percentile 10: 50,000,000
+Percentile 20: 70,000,000
+Percentile 40: 90,000,000
+Percentile 60: 110,000,000
+Percentile 80: 130,000,000
+Percentile 90: 150,000,000
+"
+[2025-06-05 08:01:40] INFO: === Forecast Result ===
+[2025-06-05 08:01:40] INFO: URL: https://www.metaculus.com/questions/38329
+[2025-06-05 08:01:40] INFO: Prediction: [Percentile(value=15000000.0, percentile=0.1), Percentile(value=20000000.0, percentile=0.2), Percentile(value=25000000.0, percentile=0.4), Percentile(value=30000000.0, percentile=0.6), Percentile(value=35000000.0, percentile=0.8), Percentile(value=40000000.0, percentile=0.9)]
+[2025-06-05 08:01:40] INFO: Reasoning: (a) The time left until the outcome to the question is known: Approximately 1 month, as the outcome will be known by July 5, 2025.
+
+(b) The outcome if nothing changed: If nothing changed, the domestic gross earnings for F1's opening weekend would likely be in line with recent high-attendance events, given the strong ticket sales and high prices.
+
+(c) The outcome if the current trend continued: If the current trend of strong attendance and high ticket prices continues, the domestic gross earnings for the opening weekend could be substantial, potentially exceeding recent years' figures due to the sustained popularity of F1 in the US.
+
+(d) The expectations of experts and markets: Experts and markets likely expect a strong financial performance for F1's opening weekend, given the consistent sell-out of tickets and the high demand for F1 events in the US.
+
+(e) A brief description of an unexpected scenario that results in a low outcome: An unexpected scenario that could result in a low outcome might include a significant disruption, such as severe weather conditions or a major competing event that draws potential attendees away from the F1 opening weekend.
+
+(f) A brief description of an unexpected scenario that results in a high outcome: An unexpected scenario that could lead to a high outcome might involve a last-minute surge in demand due to a popular driver or team announcement, or a significant increase in media coverage that boosts interest and attendance.
+
+Final answer:
+"
+Percentile 10: 15,000,000
+Percentile 20: 20,000,000
+Percentile 40: 25,000,000
+Percentile 60: 30,000,000
+Percentile 80: 35,000,000
+Percentile 90: 40,000,000
+"
+[2025-06-05 08:01:40] INFO: === Forecast Result ===
+[2025-06-05 08:01:40] INFO: URL: https://www.metaculus.com/questions/38329
+[2025-06-05 08:01:40] INFO: Prediction: [Percentile(value=50000000.0, percentile=0.1), Percentile(value=70000000.0, percentile=0.2), Percentile(value=90000000.0, percentile=0.4), Percentile(value=110000000.0, percentile=0.6), Percentile(value=130000000.0, percentile=0.8), Percentile(value=150000000.0, percentile=0.9)]
+[2025-06-05 08:01:40] INFO: Reasoning: (a) The time left until the outcome to the question is known: Approximately one month, as the question resolves based on the figures reported before July 5, 2025.
+
+(b) The outcome if nothing changed: If nothing changed, we would expect the domestic gross earnings for the F1 opening weekend to be similar to recent years, considering the strong attendance and high ticket prices. This would likely result in substantial earnings.
+
+(c) The outcome if the current trend continued: If the current trend of high attendance and expensive ticket pricing continues, the domestic gross earnings are expected to be robust, potentially matching or exceeding previous records for F1 events in the US.
+
+(d) The expectations of experts and markets: Experts and market analysts likely expect strong earnings, given the consistent sell-out of tickets and the high demand for F1 events in the US, bolstered by the popularity surge from media exposure like *Drive to Survive*.
+
+(e) A brief description of an unexpected scenario that results in a low outcome: An unexpected scenario leading to a low outcome could involve a significant disruption, such as severe weather conditions, a major competing event drawing away potential attendees, or logistical issues affecting the event's execution.
+
+(f) A brief description of an unexpected scenario that results in a high outcome: An unexpected scenario leading to a high outcome might involve an unprecedented surge in last-minute ticket sales due to a major celebrity appearance or a historic race lineup, driving attendance and earnings beyond expectations.
+
+Final Answer:
+"
+Percentile 10: 50,000,000
+Percentile 20: 70,000,000
+Percentile 40: 90,000,000
+Percentile 60: 110,000,000
+Percentile 80: 130,000,000
+Percentile 90: 150,000,000
+"
+[2025-06-05 08:01:41] INFO: === Forecast Result ===
+[2025-06-05 08:01:41] INFO: URL: https://www.metaculus.com/questions/38329
+[2025-06-05 08:01:41] INFO: Prediction: [Percentile(value=15000000.0, percentile=0.1), Percentile(value=20000000.0, percentile=0.2), Percentile(value=25000000.0, percentile=0.4), Percentile(value=30000000.0, percentile=0.6), Percentile(value=35000000.0, percentile=0.8), Percentile(value=40000000.0, percentile=0.9)]
+[2025-06-05 08:01:41] INFO: Reasoning: (a) The time left until the outcome to the question is known: Approximately one month, as the question will be resolved by July 5, 2025.
+
+(b) The outcome if nothing changed: If nothing changed, the domestic gross earnings for the opening weekend of F1 would likely align with historical figures for major F1 events in the US, considering the strong attendance and high ticket prices.
+
+(c) The outcome if the current trend continued: If the current trend of high attendance and expensive ticket pricing continues, the domestic gross earnings for the opening weekend of F1 are expected to be substantial, potentially matching or exceeding previous years' earnings for similar events.
+
+(d) The expectations of experts and markets: Experts and market analysts likely expect strong financial performance for the F1 opening weekend, given the consistent sell-out of tickets and the high demand for F1 events in the US. This is supported by the ongoing popularity of F1, driven by factors such as increased TV accessibility and the success of the Netflix series *Drive to Survive*.
+
+(e) A brief description of an unexpected scenario that results in a low outcome: An unexpected scenario that could result in a low outcome might include a significant weather event or other disruptions that lead to the cancellation or postponement of the event, resulting in lower attendance and earnings.
+
+(f) A brief description of an unexpected scenario that results in a high outcome: A high outcome could occur if there is an unexpected surge in interest, perhaps due to a major storyline or rivalry in the F1 season, leading to even higher attendance and increased ticket prices, boosting the domestic gross earnings beyond typical expectations.
+
+Final answer:
+"
+Percentile 10: 15,000,000
+Percentile 20: 20,000,000
+Percentile 40: 25,000,000
+Percentile 60: 30,000,000
+Percentile 80: 35,000,000
+Percentile 90: 40,000,000
+"
+[2025-06-05 08:01:41] INFO: === Run Summary ===
+[2025-06-05 08:01:41] INFO: Total questions: 1
+[2025-06-05 08:01:41] INFO: Successful research: 1
+[2025-06-05 08:01:41] INFO: Failed research: 0
+[2025-06-05 08:01:41] INFO: Success rate: 100.00%
