@@ -1,0 +1,84 @@
+[2025-06-05 20:01:10] INFO: === Starting new forecast run (Run #2588) ===
+[2025-06-05 20:01:10] INFO: Environment: GitHub Actions
+[2025-06-05 20:01:10] INFO: Repository: agsheves/decis-metaculus-bot1
+[2025-06-05 20:01:10] INFO: Workflow: Forecast on new AI tournament questions
+[2025-06-05 20:01:10] INFO: Commit: bd66debdbf9d9cc56a42fb09f5e08ea4a76d3525
+[2025-06-05 20:01:10] INFO: === Question 1 ===
+[2025-06-05 20:01:10] INFO: URL: https://www.metaculus.com/questions/38334
+[2025-06-05 20:01:10] INFO: Text: Will David Jolly announce his candidacy for Florida governor before July 1, 2025?
+[2025-06-05 20:01:19] INFO: Research: Perplexity succeeded for https://www.metaculus.com/questions/38334
+[2025-06-05 20:01:23] INFO: === Forecast Result ===
+[2025-06-05 20:01:23] INFO: URL: https://www.metaculus.com/questions/38334
+[2025-06-05 20:01:23] INFO: Prediction: 0.95
+[2025-06-05 20:01:23] INFO: Reasoning: (a) The time left until the outcome to the question is known is approximately 25 days, as today is June 5, 2025, and the deadline is July 1, 2025.
+
+(b) The status quo outcome if nothing changed is "Yes," since David Jolly has already announced his candidacy for Florida governor as of June 5, 2025.
+
+(c) A scenario that results in a No outcome would involve David Jolly retracting his announcement or otherwise disqualifying himself from the race before July 1, 2025. This could happen if he decides to withdraw due to personal reasons, political strategy, or unforeseen circumstances that prevent him from continuing his candidacy.
+
+(d) A scenario that results in a Yes outcome is the current situation where David Jolly has announced his candidacy for governor of Florida before the deadline of July 1, 2025, and there are no changes to this announcement.
+
+Given the current information, the status quo strongly supports a "Yes" outcome. Since the announcement has already been made and there is little time left for any significant changes, the probability of the outcome resolving as "Yes" is very high.
+
+Probability: 95%
+[2025-06-05 20:01:23] INFO: === Forecast Result ===
+[2025-06-05 20:01:23] INFO: URL: https://www.metaculus.com/questions/38334
+[2025-06-05 20:01:23] INFO: Prediction: 0.99
+[2025-06-05 20:01:23] INFO: Reasoning: (a) The time left until the outcome to the question is known is approximately 25 days, as today is June 5, 2025, and the deadline is July 1, 2025.
+
+(b) The status quo outcome if nothing changed is "Yes," since David Jolly has already announced his candidacy for Florida governor as of June 5, 2025.
+
+(c) A scenario that results in a No outcome would involve David Jolly retracting his announcement before July 1, 2025, and publicly stating that he is not running for governor. This would be an unusual and unexpected development given the current information.
+
+(d) A scenario that results in a Yes outcome is the current situation where David Jolly has announced his candidacy for Florida governor on June 5, 2025. As long as this announcement stands and is not retracted, the outcome will be "Yes."
+
+Given the current information and the fact that David Jolly has already announced his candidacy, the probability of the outcome being "Yes" is extremely high. The status quo strongly supports a "Yes" outcome, and there is little time left for any significant changes to occur.
+
+Probability: 99%
+[2025-06-05 20:01:23] INFO: === Forecast Result ===
+[2025-06-05 20:01:23] INFO: URL: https://www.metaculus.com/questions/38334
+[2025-06-05 20:01:23] INFO: Prediction: 0.99
+[2025-06-05 20:01:23] INFO: Reasoning: (a) The time left until the outcome to the question is known is approximately 25 days, as today is June 5, 2025, and the deadline is July 1, 2025.
+
+(b) The status quo outcome if nothing changed is "Yes," because David Jolly has already announced his candidacy for Florida governor as of June 5, 2025.
+
+(c) A scenario that results in a No outcome would involve David Jolly retracting his announcement or otherwise being disqualified or withdrawing from the race before July 1, 2025. However, such scenarios are generally rare and would require significant developments or controversies.
+
+(d) A scenario that results in a Yes outcome is the current situation where David Jolly has formally announced his candidacy for governor of Florida. As long as this announcement remains valid and is not retracted or invalidated before July 1, 2025, the outcome will resolve as Yes.
+
+Given the current information and the fact that the announcement has already been made, the probability of the question resolving as Yes is very high. The status quo strongly favors a Yes outcome, and significant changes would be required for a No outcome to occur.
+
+Probability: 99%
+[2025-06-05 20:01:25] INFO: === Forecast Result ===
+[2025-06-05 20:01:25] INFO: URL: https://www.metaculus.com/questions/38334
+[2025-06-05 20:01:25] INFO: Prediction: 0.99
+[2025-06-05 20:01:25] INFO: Reasoning: (a) The time left until the outcome to the question is known is approximately 25 days, as today is June 5, 2025, and the deadline is July 1, 2025.
+
+(b) The status quo outcome if nothing changed is "Yes," since David Jolly has already announced his candidacy for Florida governor on June 5, 2025.
+
+(c) A scenario that results in a No outcome could involve a retraction or disqualification of Jolly's candidacy announcement before July 1, 2025. This could happen if Jolly decides to withdraw from the race, or if there are legal or procedural issues that invalidate his announcement.
+
+(d) A scenario that results in a Yes outcome is the current situation where David Jolly has announced his candidacy for governor of Florida on June 5, 2025, and no retraction or disqualification occurs before July 1, 2025.
+
+Given the current information and the fact that Jolly has already announced his candidacy, the status quo heavily favors a "Yes" outcome. The likelihood of a retraction or disqualification occurring within the next 25 days is generally low, making the probability of a "Yes" outcome very high.
+
+Probability: 99%
+[2025-06-05 20:01:26] INFO: === Forecast Result ===
+[2025-06-05 20:01:26] INFO: URL: https://www.metaculus.com/questions/38334
+[2025-06-05 20:01:26] INFO: Prediction: 0.99
+[2025-06-05 20:01:26] INFO: Reasoning: (a) The time left until the outcome to the question is known is approximately 26 days, as today is June 5, 2025, and the deadline is July 1, 2025.
+
+(b) The status quo outcome if nothing changed is "Yes," because David Jolly has already announced his candidacy for Florida governor as of June 5, 2025.
+
+(c) A brief description of a scenario that results in a No outcome: If, for some reason, the announcement made by David Jolly is retracted or deemed invalid before July 1, 2025, perhaps due to a misunderstanding or miscommunication, and no subsequent valid announcement is made by that date, the outcome would resolve as "No."
+
+(d) A brief description of a scenario that results in a Yes outcome: The current scenario already results in a "Yes" outcome, as David Jolly has formally announced his candidacy for Florida governor on June 5, 2025. If this announcement remains valid and uncontested, the outcome will resolve as "Yes."
+
+Given the current information and the fact that an announcement has already been made, the probability of the outcome being "Yes" is very high. The status quo strongly supports a "Yes" outcome, and the world tends to change slowly, making it unlikely for the announcement to be retracted or invalidated.
+
+Probability: 99%
+[2025-06-05 20:01:26] INFO: === Run Summary ===
+[2025-06-05 20:01:26] INFO: Total questions: 1
+[2025-06-05 20:01:26] INFO: Successful research: 1
+[2025-06-05 20:01:26] INFO: Failed research: 0
+[2025-06-05 20:01:26] INFO: Success rate: 100.00%
