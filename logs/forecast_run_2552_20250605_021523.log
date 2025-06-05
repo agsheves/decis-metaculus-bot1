@@ -1,0 +1,146 @@
+[2025-06-05 02:15:23] INFO: === Starting new forecast run (Run #2552) ===
+[2025-06-05 02:15:23] INFO: Environment: GitHub Actions
+[2025-06-05 02:15:23] INFO: Repository: agsheves/decis-metaculus-bot1
+[2025-06-05 02:15:23] INFO: Workflow: Forecast on new AI tournament questions
+[2025-06-05 02:15:23] INFO: Commit: b1481ac45fcb9028f47c7ae92a4c6dac47d61d97
+[2025-06-05 02:15:23] INFO: === Question 1 ===
+[2025-06-05 02:15:23] INFO: URL: https://www.metaculus.com/questions/38326
+[2025-06-05 02:15:23] INFO: Text: How many unique posters will Bluesky have on June 28, 2025?
+[2025-06-05 02:15:36] INFO: Research: Perplexity succeeded for https://www.metaculus.com/questions/38326
+[2025-06-05 02:15:46] INFO: === Forecast Result ===
+[2025-06-05 02:15:46] INFO: URL: https://www.metaculus.com/questions/38326
+[2025-06-05 02:15:46] INFO: Prediction: [Percentile(value=500000.0, percentile=0.1), Percentile(value=750000.0, percentile=0.2), Percentile(value=1000000.0, percentile=0.4), Percentile(value=1500000.0, percentile=0.6), Percentile(value=2000000.0, percentile=0.8), Percentile(value=2500000.0, percentile=0.9)]
+[2025-06-05 02:15:46] INFO: Reasoning: (a) **The time left until the outcome to the question is known:**  
+There are 23 days left until June 28, 2025.
+
+(b) **The outcome if nothing changed:**  
+If nothing changed, the number of unique posters would remain at the current level. However, the exact current number of unique posters isn't provided, so we can't specify this value.
+
+(c) **The outcome if the current trend continued:**  
+Given the growth rate of approximately 1.5 million new users per month, we can estimate the increase in unique posters. Assuming a similar proportion of users become unique posters as in the past, we can expect an increase in unique posters by the end of June. However, without specific data on the current number of unique posters, this remains an estimate.
+
+(d) **The expectations of experts and markets:**  
+Experts likely expect continued growth in unique posters, correlating with the increase in registered users and active users. The platform's appeal to younger demographics and its position as an alternative to Twitter may contribute to sustained engagement and growth in unique posters.
+
+(e) **A brief description of an unexpected scenario that results in a low outcome:**  
+An unexpected scenario resulting in a low outcome could involve a significant technical failure or security breach on Bluesky, leading to a loss of user trust and a decrease in active engagement, thus reducing the number of unique posters.
+
+(f) **A brief description of an unexpected scenario that results in a high outcome:**  
+A high outcome could occur if a major influencer or celebrity joins Bluesky and drives a large influx of new users and engagement, significantly increasing the number of unique posters beyond current trends.
+
+**Final Answer:**
+"
+Percentile 10: 500,000
+Percentile 20: 750,000
+Percentile 40: 1,000,000
+Percentile 60: 1,500,000
+Percentile 80: 2,000,000
+Percentile 90: 2,500,000
+"
+[2025-06-05 02:15:46] INFO: === Forecast Result ===
+[2025-06-05 02:15:46] INFO: URL: https://www.metaculus.com/questions/38326
+[2025-06-05 02:15:46] INFO: Prediction: [Percentile(value=1000000.0, percentile=0.1), Percentile(value=1500000.0, percentile=0.2), Percentile(value=2000000.0, percentile=0.4), Percentile(value=3000000.0, percentile=0.6), Percentile(value=4000000.0, percentile=0.8), Percentile(value=5000000.0, percentile=0.9)]
+[2025-06-05 02:15:46] INFO: Reasoning: (a) The time left until the outcome to the question is known: Approximately 3 weeks (23 days) from June 5, 2025, to June 28, 2025.
+
+(b) The outcome if nothing changed: If the current number of unique posters remains constant, the number would be based on the most recent data available for unique posters. However, this specific number is not provided in the assistant's report, so we can only assume it is a subset of the daily active users, potentially around 1-10 million.
+
+(c) The outcome if the current trend continued: Given the growth rate of 1.5 million new users per month, and assuming a similar proportion of these users become unique posters, we can estimate an increase in unique posters. If we assume that 10% of new users become unique posters, this would add approximately 150,000 new unique posters in June, leading to a slight increase from the current number.
+
+(d) The expectations of experts and markets: Experts likely expect continued growth in user engagement and unique posters, given the platform's appeal to younger demographics and its recent growth trends. However, the exact number of unique posters will depend on user engagement levels and retention rates.
+
+(e) A brief description of an unexpected scenario that results in a low outcome: A significant technical issue or data breach could lead to a loss of user trust and a decrease in active engagement, resulting in fewer unique posters than expected.
+
+(f) A brief description of an unexpected scenario that results in a high outcome: A major event or endorsement by a high-profile figure could drive a surge in user activity and engagement, leading to a higher number of unique posters than anticipated.
+
+Final answer:
+"
+Percentile 10: 1,000,000
+Percentile 20: 1,500,000
+Percentile 40: 2,000,000
+Percentile 60: 3,000,000
+Percentile 80: 4,000,000
+Percentile 90: 5,000,000
+"
+[2025-06-05 02:15:46] INFO: === Forecast Result ===
+[2025-06-05 02:15:46] INFO: URL: https://www.metaculus.com/questions/38326
+[2025-06-05 02:15:46] INFO: Prediction: [Percentile(value=1000000.0, percentile=0.1), Percentile(value=1500000.0, percentile=0.2), Percentile(value=2500000.0, percentile=0.4), Percentile(value=4000000.0, percentile=0.6), Percentile(value=6000000.0, percentile=0.8), Percentile(value=8000000.0, percentile=0.9)]
+[2025-06-05 02:15:46] INFO: Reasoning: (a) The time left until the outcome to the question is known:  
+There are 23 days remaining until June 28, 2025.
+
+(b) The outcome if nothing changed:  
+If nothing changed from the current state, the number of unique posters would remain the same as the current number of daily active users, which is estimated to be between 1 million and 10 million.
+
+(c) The outcome if the current trend continued:  
+Assuming the current growth trend of approximately 1.5 million new users per month continues, we can estimate an increase in the number of unique posters. If we assume the proportion of active users remains consistent with the current user base, we might expect a slight increase in unique posters. However, without specific data on the conversion rate from registered users to unique posters, this remains speculative.
+
+(d) The expectations of experts and markets:  
+Experts and market analysts likely expect continued growth in user engagement, given the platform's appeal to younger demographics and the ongoing expansion of the user base. However, the exact number of unique posters is difficult to predict due to potential fluctuations in user engagement and external factors influencing social media usage.
+
+(e) A brief description of an unexpected scenario that results in a low outcome:  
+An unexpected scenario resulting in a low outcome could involve a significant technical issue or security breach that temporarily disrupts the platform, leading to a decrease in user engagement and a lower number of unique posters.
+
+(f) A brief description of an unexpected scenario that results in a high outcome:  
+A high outcome could occur if Bluesky introduces a highly popular new feature or partnership that significantly boosts user engagement and attracts a large number of new active posters, surpassing current growth expectations.
+
+Final Answer:  
+"
+Percentile 10: 1,000,000  
+Percentile 20: 1,500,000  
+Percentile 40: 2,500,000  
+Percentile 60: 4,000,000  
+Percentile 80: 6,000,000  
+Percentile 90: 8,000,000  
+"
+[2025-06-05 02:15:46] INFO: === Forecast Result ===
+[2025-06-05 02:15:46] INFO: URL: https://www.metaculus.com/questions/38326
+[2025-06-05 02:15:46] INFO: Prediction: [Percentile(value=1000000.0, percentile=0.1), Percentile(value=1500000.0, percentile=0.2), Percentile(value=2000000.0, percentile=0.4), Percentile(value=2500000.0, percentile=0.6), Percentile(value=3000000.0, percentile=0.8), Percentile(value=3500000.0, percentile=0.9)]
+[2025-06-05 02:15:46] INFO: Reasoning: (a) The time left until the outcome to the question is known: Approximately 23 days, from June 5, 2025, to June 28, 2025.
+
+(b) The outcome if nothing changed: If the number of unique posters remained constant from June 4, 2025, the outcome would be the current number of unique posters. However, this specific number is not provided in the data, so we would need to assume a reasonable estimate based on the active user base.
+
+(c) The outcome if the current trend continued: Assuming the growth rate of approximately 1.5 million new users per month continues, we could expect an increase in unique posters. If we assume a similar proportion of active users to registered users, the number of unique posters would likely increase modestly over the next 23 days.
+
+(d) The expectations of experts and markets: Experts might expect continued growth in unique posters, given the platform's appeal to younger demographics and its recent growth trajectory. However, the exact number would depend on user engagement and retention rates.
+
+(e) A brief description of an unexpected scenario that results in a low outcome: A significant technical issue or security breach could lead to a decrease in user engagement, resulting in fewer unique posters. Additionally, if a competitor platform launches a major update or feature that draws users away from Bluesky, this could also lead to a lower outcome.
+
+(f) A brief description of an unexpected scenario that results in a high outcome: A viral event or endorsement by a major celebrity could lead to a surge in user activity and engagement, resulting in a higher number of unique posters. Additionally, if Bluesky introduces a highly popular feature or partnership, it could boost user activity significantly.
+
+Final Answer:
+"
+Percentile 10: 1,000,000
+Percentile 20: 1,500,000
+Percentile 40: 2,000,000
+Percentile 60: 2,500,000
+Percentile 80: 3,000,000
+Percentile 90: 3,500,000
+"
+[2025-06-05 02:15:47] INFO: === Forecast Result ===
+[2025-06-05 02:15:47] INFO: URL: https://www.metaculus.com/questions/38326
+[2025-06-05 02:15:47] INFO: Prediction: [Percentile(value=950000.0, percentile=0.1), Percentile(value=1000000.0, percentile=0.2), Percentile(value=1100000.0, percentile=0.4), Percentile(value=1150000.0, percentile=0.6), Percentile(value=1200000.0, percentile=0.8), Percentile(value=1300000.0, percentile=0.9)]
+[2025-06-05 02:15:47] INFO: Reasoning: (a) The time left until the outcome to the question is known is approximately 23 days, as today is June 5, 2025, and the question resolves on June 28, 2025.
+
+(b) The outcome if nothing changed would be the current number of unique posters. However, the exact number of unique posters as of June 4, 2025, is not provided, so we would need to estimate based on the available data on daily active users. Assuming a conservative estimate based on the lower bound of daily active users (1 million), the number of unique posters would be at least 1 million.
+
+(c) The outcome if the current trend continued would involve estimating the growth in unique posters based on user growth. With approximately 1.5 million new users per month and assuming a similar proportion of users become active posters, we might expect an increase in unique posters. If we assume 10% of new users become unique posters, this would add about 150,000 unique posters over the month, potentially bringing the total to around 1.15 million unique posters by June 28, 2025.
+
+(d) The expectations of experts and markets would likely focus on continued growth in user engagement, especially given the platform's appeal to younger demographics and the ongoing trend of users migrating from other platforms like Twitter. Experts might anticipate a moderate increase in unique posters, aligning with the platform's overall growth trajectory.
+
+(e) A brief description of an unexpected scenario that results in a low outcome could involve a significant technical issue or security breach that discourages user engagement, leading to a drop in active posters. Alternatively, a major competitor could launch a new feature that draws users away from Bluesky.
+
+(f) A brief description of an unexpected scenario that results in a high outcome could involve a viral event or endorsement by a major celebrity or influencer, leading to a surge in user activity and a higher number of unique posters. Additionally, if Bluesky introduces a highly popular feature or partnership, it could significantly boost engagement.
+
+Final Answer:
+"
+Percentile 10: 950,000
+Percentile 20: 1,000,000
+Percentile 40: 1,100,000
+Percentile 60: 1,150,000
+Percentile 80: 1,200,000
+Percentile 90: 1,300,000
+"
+[2025-06-05 02:15:48] INFO: === Run Summary ===
+[2025-06-05 02:15:48] INFO: Total questions: 1
+[2025-06-05 02:15:48] INFO: Successful research: 1
+[2025-06-05 02:15:48] INFO: Failed research: 0
+[2025-06-05 02:15:48] INFO: Success rate: 100.00%
