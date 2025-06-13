@@ -1,0 +1,137 @@
+[2025-06-13 08:37:54] INFO: === Starting new forecast run (Run #2938) ===
+[2025-06-13 08:37:54] INFO: Environment: GitHub Actions
+[2025-06-13 08:37:54] INFO: Repository: agsheves/decis-metaculus-bot1
+[2025-06-13 08:37:54] INFO: Workflow: Forecast on new AI tournament questions
+[2025-06-13 08:37:54] INFO: Commit: 0737aee01b9b46b35638abdd7dcb8568c273c05a
+[2025-06-13 08:37:54] INFO: === Question 1 ===
+[2025-06-13 08:37:54] INFO: URL: https://www.metaculus.com/questions/38536
+[2025-06-13 08:37:54] INFO: Text: How many total likes will be made on Bluesky on June 28, 2025?
+[2025-06-13 08:37:58] INFO: Research: Perplexity succeeded for https://www.metaculus.com/questions/38536
+[2025-06-13 08:38:05] INFO: === Forecast Result ===
+[2025-06-13 08:38:05] INFO: URL: https://www.metaculus.com/questions/38536
+[2025-06-13 08:38:05] INFO: Prediction: [Percentile(value=0.5, percentile=0.1), Percentile(value=0.7, percentile=0.2), Percentile(value=0.9, percentile=0.4), Percentile(value=1.0, percentile=0.6), Percentile(value=1.2, percentile=0.8), Percentile(value=1.5, percentile=0.9)]
+[2025-06-13 08:38:05] INFO: Reasoning: (a) The time left until the outcome to the question is known: 15 days.
+
+(b) The outcome if nothing changed: If the current level of engagement remains constant, with approximately 998,390 unique likes per day, then the number of likes on June 28, 2025, would be around 1 million.
+
+(c) The outcome if the current trend continued: Given the decline in engagement from the peak in November 2024, if the trend of decreasing likes continues, the number of likes could be slightly lower than the current level, potentially around 900,000 to 950,000 likes.
+
+(d) The expectations of experts and markets: Experts might expect a stabilization or slight increase in engagement due to potential new features or marketing efforts, but not necessarily reaching previous peak levels. Markets might anticipate a number around 1 million likes, considering the growing user base but declining engagement.
+
+(e) A brief description of an unexpected scenario that results in a low outcome: A significant technical issue or outage on Bluesky on June 28, 2025, could drastically reduce the number of likes, potentially dropping it to below 500,000.
+
+(f) A brief description of an unexpected scenario that results in a high outcome: A viral event or a major influencer campaign on June 28, 2025, could significantly boost engagement, leading to a spike in likes, potentially reaching or exceeding 2 million.
+
+Final answer:
+"
+Percentile 10: 0.5
+Percentile 20: 0.7
+Percentile 40: 0.9
+Percentile 60: 1.0
+Percentile 80: 1.2
+Percentile 90: 1.5
+"
+[2025-06-13 08:38:05] INFO: === Forecast Result ===
+[2025-06-13 08:38:05] INFO: URL: https://www.metaculus.com/questions/38536
+[2025-06-13 08:38:05] INFO: Prediction: [Percentile(value=0.5, percentile=0.1), Percentile(value=0.7, percentile=0.2), Percentile(value=0.9, percentile=0.4), Percentile(value=1.1, percentile=0.6), Percentile(value=1.3, percentile=0.8), Percentile(value=1.5, percentile=0.9)]
+[2025-06-13 08:38:05] INFO: Reasoning: (a) The time left until the outcome to the question is known: There are 15 days remaining until June 28, 2025.
+
+(b) The outcome if nothing changed: If the current number of unique likes (998,390) remains constant, the total likes on June 28, 2025, would be approximately 1 million likes.
+
+(c) The outcome if the current trend continued: Given the decline from the peak of 2,789,693 likes to 998,390 likes, if this downward trend continues, the number of likes on June 28, 2025, could be lower than 1 million, possibly around 800,000 to 900,000 likes.
+
+(d) The expectations of experts and markets: Experts might expect a stabilization or slight recovery in engagement due to the growing user base, potentially offsetting some of the decline. Markets might anticipate a number closer to 1 million likes, considering the active user base and potential for increased engagement.
+
+(e) A brief description of an unexpected scenario that results in a low outcome: A significant technical issue or outage on Bluesky on June 28, 2025, could drastically reduce user engagement, resulting in likes dropping to around 500,000 or lower.
+
+(f) A brief description of an unexpected scenario that results in a high outcome: A viral event or major announcement on Bluesky on June 28, 2025, could spike user engagement, leading to a surge in likes, potentially reaching or exceeding 2 million.
+
+Final answer:
+"
+Percentile 10: 0.5
+Percentile 20: 0.7
+Percentile 40: 0.9
+Percentile 60: 1.1
+Percentile 80: 1.3
+Percentile 90: 1.5
+"
+[2025-06-13 08:38:05] INFO: === Forecast Result ===
+[2025-06-13 08:38:05] INFO: URL: https://www.metaculus.com/questions/38536
+[2025-06-13 08:38:05] INFO: Prediction: [Percentile(value=0.5, percentile=0.1), Percentile(value=0.7, percentile=0.2), Percentile(value=0.9, percentile=0.4), Percentile(value=1.1, percentile=0.6), Percentile(value=1.4, percentile=0.8), Percentile(value=1.8, percentile=0.9)]
+[2025-06-13 08:38:05] INFO: Reasoning: (a) The time left until the outcome to the question is known is 15 days, as today is June 13, 2025, and the question resolves on June 28, 2025.
+
+(b) The outcome if nothing changed: If the current number of unique likes (998,390) remains constant until June 28, 2025, then the total likes for that day would be approximately 1 million.
+
+(c) The outcome if the current trend continued: Given the decline from the peak of 2,789,693 likes in November 2024 to 998,390 likes by June 10, 2025, if this downward trend continues, the number of likes could decrease further. A rough estimate might place the number of likes around 800,000 to 900,000 by June 28, 2025.
+
+(d) The expectations of experts and markets: While specific expert predictions are not provided, the general sentiment suggests a decline in engagement. However, the growing user base could counteract this trend to some extent, potentially stabilizing or slightly increasing the number of likes compared to the current level.
+
+(e) A brief description of an unexpected scenario that results in a low outcome: A significant technical issue or outage on Bluesky on June 28, 2025, could drastically reduce user activity, resulting in a much lower number of likes, potentially below 500,000.
+
+(f) A brief description of an unexpected scenario that results in a high outcome: A major event or viral trend on Bluesky on June 28, 2025, could lead to a surge in user engagement, significantly increasing the number of likes, potentially reaching or exceeding 2 million.
+
+Given the current trends and potential scenarios, here is the final forecast:
+
+"
+Percentile 10: 0.5 million
+Percentile 20: 0.7 million
+Percentile 40: 0.9 million
+Percentile 60: 1.1 million
+Percentile 80: 1.4 million
+Percentile 90: 1.8 million
+"
+[2025-06-13 08:38:05] INFO: === Forecast Result ===
+[2025-06-13 08:38:05] INFO: URL: https://www.metaculus.com/questions/38536
+[2025-06-13 08:38:05] INFO: Prediction: [Percentile(value=0.5, percentile=0.1), Percentile(value=0.7, percentile=0.2), Percentile(value=0.9, percentile=0.4), Percentile(value=1.0, percentile=0.6), Percentile(value=1.2, percentile=0.8), Percentile(value=1.5, percentile=0.9)]
+[2025-06-13 08:38:05] INFO: Reasoning: (a) **The time left until the outcome to the question is known**: There are 15 days remaining until June 28, 2025.
+
+(b) **The outcome if nothing changed**: If the current level of engagement remains constant, with approximately 998,390 unique likes per day, the number of likes on June 28, 2025, would be around 1 million likes.
+
+(c) **The outcome if the current trend continued**: Given the decline from a peak of 2,789,693 likes to 998,390 likes, if the downward trend continues, the number of likes could decrease further. Assuming a linear decline, the likes might fall to around 900,000 to 950,000 by June 28, 2025.
+
+(d) **The expectations of experts and markets**: Experts might expect a stabilization or slight recovery in engagement due to potential new features, marketing efforts, or social media trends. However, without specific interventions or changes, it is unlikely that likes would return to peak levels. Markets might anticipate a modest increase or stabilization around 1 million likes.
+
+(e) **A brief description of an unexpected scenario that results in a low outcome**: A significant technical issue or outage on Bluesky on June 28, 2025, could drastically reduce user engagement, leading to a much lower number of likes, potentially below 500,000.
+
+(f) **A brief description of an unexpected scenario that results in a high outcome**: A viral event or major celebrity endorsement on Bluesky could spike user engagement significantly, potentially increasing likes to over 2 million on June 28, 2025.
+
+Given these considerations, here is the final forecast with wide confidence intervals:
+
+```
+Percentile 10: 0.5
+Percentile 20: 0.7
+Percentile 40: 0.9
+Percentile 60: 1.0
+Percentile 80: 1.2
+Percentile 90: 1.5
+```
+[2025-06-13 08:38:06] INFO: === Forecast Result ===
+[2025-06-13 08:38:06] INFO: URL: https://www.metaculus.com/questions/38536
+[2025-06-13 08:38:06] INFO: Prediction: [Percentile(value=0.5, percentile=0.1), Percentile(value=0.8, percentile=0.2), Percentile(value=0.9, percentile=0.4), Percentile(value=1.0, percentile=0.6), Percentile(value=1.2, percentile=0.8), Percentile(value=1.5, percentile=0.9)]
+[2025-06-13 08:38:06] INFO: Reasoning: (a) **The time left until the outcome to the question is known**: There are 15 days remaining until June 28, 2025.
+
+(b) **The outcome if nothing changed**: If the current engagement level of 998,390 unique likes per day remains constant, the number of likes on June 28, 2025, would be approximately 1 million likes.
+
+(c) **The outcome if the current trend continued**: If the declining trend in engagement continues, we might see a further decrease in daily likes. Assuming a modest decline of 5% from the current level, the number of likes could be around 950,000 likes.
+
+(d) **The expectations of experts and markets**: Experts might expect a stabilization in engagement levels as the platform matures and possibly introduces new features to boost user interaction. However, without significant changes, the likes might hover around the current levels or slightly lower. Market expectations might be cautious, given the observed decline in engagement.
+
+(e) **A brief description of an unexpected scenario that results in a low outcome**: A significant technical issue or outage on June 28, 2025, could drastically reduce user activity, resulting in likes dropping to as low as 500,000 likes.
+
+(f) **A brief description of an unexpected scenario that results in a high outcome**: A major event or announcement on Bluesky that captures widespread attention and engagement could lead to a spike in activity, potentially increasing likes to around 2 million likes.
+
+Given these considerations, here is the final answer with wide confidence intervals:
+
+```
+Percentile 10: 0.5
+Percentile 20: 0.8
+Percentile 40: 0.9
+Percentile 60: 1.0
+Percentile 80: 1.2
+Percentile 90: 1.5
+```
+[2025-06-13 08:38:06] INFO: === Run Summary ===
+[2025-06-13 08:38:06] INFO: Total questions: 1
+[2025-06-13 08:38:06] INFO: Successful research: 1
+[2025-06-13 08:38:06] INFO: Failed research: 0
+[2025-06-13 08:38:06] INFO: Success rate: 100.00%
