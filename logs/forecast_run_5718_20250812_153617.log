@@ -1,0 +1,9 @@
+[2025-08-12 15:36:17] INFO: === Starting new forecast run (Run #5718) ===
+[2025-08-12 15:36:17] INFO: Environment: GitHub Actions
+[2025-08-12 15:36:17] INFO: Repository: agsheves/decis-metaculus-bot1
+[2025-08-12 15:36:17] INFO: Workflow: Forecast on new AI tournament questions
+[2025-08-12 15:36:17] INFO: Commit: b3d579c317d233a623f2ab362d7f05e6d55775e3
+[2025-08-12 15:36:18] INFO: === Run Summary ===
+[2025-08-12 15:36:18] INFO: Total questions: 0
+[2025-08-12 15:36:18] INFO: Successful research: 0
+[2025-08-12 15:36:18] INFO: Failed research: 0
